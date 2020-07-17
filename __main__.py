@@ -3,20 +3,22 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import csv
 import os
+import sys
 import json
 import requests
 
 def get_job_info(job_soup, select_path_dict):
 	# for Yourator:
 	# Job Title: h1.flex-item > span:nth-of-type(1)
-	# Job Description: section:nth-of-type(1).content__area 
-	# Job Requirement: section:nth-of-type(2).content__area 
+	# Job Description: .job__content > section:nth-of-type(1)
+	# Job Requirement: .job__content > section:nth-of-type(2) 
 
 	job_info = {}
+	
+	job_info["job_title"] = job_soup.select(select_path_dict["job_title"])[0].text
+	job_info["job_descript"] = job_soup.select(select_path_dict["job_descript"])[0].text
+	job_info["job_require"] = job_soup.select(select_path_dict["job_require"])[0].text
 
-	job_info["job_title"] = job_soup.select(select_path_dict["job_title"]).text
-	job_info["job_descript"] = job_soup.select(select_path_dict["job_descript"]).text
-	job_info["job_require"] = job_soup.select(select_path_dict["job_require"]).text
 
 	return job_info
 
@@ -26,8 +28,15 @@ def get_job_url_list(url_list_loc):
 		url_list = url_list_file.readlines()
 	return url_list
 
-def get_path():
-	
+def get_path(pathfile):
+	with open(pathfile, newline='') as csvfile:
+		dict_list = []
+		# 讀取 CSV 檔內容，將每一列轉成一個 dictionary
+		csv_dict = csv.DictReader(csvfile)
+		for row in csv_dict:
+			dict_list.append(row)
+
+	return dict_list
 
 if __name__ == '__main__':
 
@@ -52,7 +61,7 @@ if __name__ == '__main__':
 	# Simply using python request
 	soup_list = []
 	for job_url in url_list:
-		print(job_url)
+
 		# GET method
 		req = requests.get(job_url)
 		# print out the status code
@@ -86,10 +95,12 @@ if __name__ == '__main__':
 		# quit the browser
 		browser.quit()
 	"""
+
+	selector_path_list = get_path("path.csv")
 	# Extract the job info and append them into info list
 	info_list = []
 	for job_info_soup in soup_list:
-		info_list.append(get_job_info(job_info_soup))
+		info_list.append(get_job_info(job_info_soup,selector_path_list[0]))
 
 	""" need encoding
 	job_info_json = json.dumps(job_info)
@@ -97,19 +108,25 @@ if __name__ == '__main__':
 		fp.write(job_info_json)
 	"""
 
+	needHeader = False
+	# 檢查檔案是否存在
+	if not os.path.isfile("job.csv"):
+		needHeader = True
 	# write to csv file
-	with open('job.csv', 'w', newline='') as csvfile:
-		# 建立 CSV 檔寫入器
-		writer = csv.writer(csvfile)
+	with open('job.csv', 'a', newline='') as csvfile:
+
 		header = info_list[0].keys()
-		# 寫入header資料
-		writer.writerow(header)
+		# 將 dictionary 寫入 CSV 檔
+		writer = csv.DictWriter(csvfile, fieldnames=header)
+
+		# 檢查檔案是否存在
+		if needHeader:
+			# 寫入第一列的欄位名稱
+			writer.writeheader()
+
 		for job_info in info_list:
-			row = []
-			for key in header:
-				row.append(job_info[key])
 			# 寫入content
-			writer.writerow(row)
+			writer.writerow(job_info)
 
 	print("scraping done.")
 
