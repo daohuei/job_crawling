@@ -6,14 +6,17 @@ import os
 import json
 import requests
 
-def get_job_info(job_soup):
+def get_job_info(job_soup, select_path_dict):
+	# for Yourator:
+	# Job Title: h1.flex-item > span:nth-of-type(1)
+	# Job Description: section:nth-of-type(1).content__area 
+	# Job Requirement: section:nth-of-type(2).content__area 
 
 	job_info = {}
-	job_data = job_soup.select(".content__area")
 
-	job_info["job_title"] = job_soup.select("h1.flex-item > span")[0].text
-	job_info["job_descript"] = job_data[0].text
-	job_info["job_require"] = job_data[1].text
+	job_info["job_title"] = job_soup.select(select_path_dict["job_title"]).text
+	job_info["job_descript"] = job_soup.select(select_path_dict["job_descript"]).text
+	job_info["job_require"] = job_soup.select(select_path_dict["job_require"]).text
 
 	return job_info
 
@@ -22,6 +25,9 @@ def get_job_url_list(url_list_loc):
 	with open("./url_list.txt") as url_list_file:
 		url_list = url_list_file.readlines()
 	return url_list
+
+def get_path():
+	
 
 if __name__ == '__main__':
 
