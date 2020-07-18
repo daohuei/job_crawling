@@ -1,4 +1,5 @@
 import os
+import sys
 def remove_duplicate(csvfile):
 	with open(csvfile,'r') as in_file, open('temp.csv','w') as out_file:
 		seen = set() # set for fast O(1) amortized lookup
@@ -10,4 +11,7 @@ def remove_duplicate(csvfile):
 	os.remove(csvfile)
 	os.rename("temp.csv",csvfile)
 if __name__ == '__main__':
-	remove_duplicate('job_search.csv')
+	if len(sys.argv) > 1:
+		remove_duplicate(sys.argv[1])
+	else:
+		print("Please input the argument!")
