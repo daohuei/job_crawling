@@ -64,30 +64,36 @@ def main():
 	# setup Chrome option
 	options = webdriver.ChromeOptions()
 	# maximize windows
-	# options.add_argument("--start-maximized")
+	options.add_argument("--start-maximized")
 	# private mode
 	options.add_argument("--incognito")
 	# invisible
-	options.add_argument("--headless")
+	# options.add_argument("--headless")
 	print('Opening Browser...')
 	# adapt the option
 	browser = webdriver.Chrome(chrome_options=options,
 							   executable_path='./chromedriver')
 
 	# Get all the job in certain search
-	job_url = "https://www.yourator.co/jobs?category[]=29&tag[]=135"
 
-	
+	job_url_list = [
+		"https://www.yourator.co/jobs?category[]=29&tag[]=135&area[]=TPE",
+		"https://www.yourator.co/jobs?category[]=29&area[]=TPE",
+		"https://www.yourator.co/jobs?category[]=22&category[]=23&category[]=24&category[]=29&category[]=28&category[]=25&category[]=26&category[]=27&tag[]=135&area[]=TPE"
+	]
+
 	pages = [1,2,3,4,5]
-	for i in pages:
-		print(i)
-		browser.get(job_url+"&page="+str(i))
-		time.sleep(1)
-		page_soup = BeautifulSoup(browser.page_source, 'html.parser')
-		j_list = get_job_list(page_soup)
-		if len(j_list) == 0:
-			break
-		write_csv(j_list)
+	
+	for job_url in job_url_list: 
+		for i in pages:
+			print(i)
+			browser.get(job_url+"&page="+str(i))
+			time.sleep(1)
+			page_soup = BeautifulSoup(browser.page_source, 'html.parser')
+			j_list = get_job_list(page_soup)
+			if len(j_list) == 0:
+				break
+			write_csv(j_list)
 
 	# quit the browser
 	browser.quit()
