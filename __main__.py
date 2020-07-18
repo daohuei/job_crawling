@@ -14,7 +14,7 @@ def get_job_info(job_soup, select_path_dict):
 	# Job Requirement: .job__content > section:nth-of-type(2) 
 
 	job_info = {}
-	
+
 	job_info["job_title"] = job_soup.select(select_path_dict["job_title"])[0].text
 	job_info["job_descript"] = job_soup.select(select_path_dict["job_descript"])[0].text
 	job_info["job_require"] = job_soup.select(select_path_dict["job_require"])[0].text
@@ -37,6 +37,8 @@ def get_path(pathfile):
 			dict_list.append(row)
 
 	return dict_list
+
+
 
 if __name__ == '__main__':
 
@@ -72,7 +74,7 @@ if __name__ == '__main__':
 			soup = BeautifulSoup(req.text, 'html.parser')
 			soup_list.append(soup)
 		else:
-			sys.exit("Request Error: "+ str(requests.codes.ok))
+			sys.exit("Request Error: "+ str(req.status_code))
 
 	"""	Multiple Chrome Window Activator(Not Completed)
 	wincount = 0
