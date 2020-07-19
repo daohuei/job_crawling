@@ -30,10 +30,11 @@ def get_job_list(page_soup):
 	job_soup_list = page_soup.select("article.job-list-item")
 
 	for js in job_soup_list:
+		if "js-job-item--recommend" in str(js) or "b-block--nodata" in str(js):
+			break
 		# select the title and company <a> tag section
 		title = js.select("a.js-job-link")[0]
 		company = js.select("ul:nth-of-type(1) a")[0]
-
 		# store the info with job_ele dictionary
 		job_ele = {}
 		job_ele["job_title"] = title.text.replace('"',"").strip()
@@ -47,7 +48,7 @@ def get_job_list(page_soup):
 def get_104_content():
 	pass
 
-def search_104(url_list):
+def search_104(url_list, fn):
 	options = browser_setup()
 	print('Opening Browser...')
 	# adapt the option
@@ -64,22 +65,23 @@ def search_104(url_list):
 		"""
 		job_soup = BeautifulSoup(browser.page_source, 'html.parser')
 		job_list = get_job_list(job_soup)
-		write_csv(job_list)
+		write_csv(job_list, fn)
 	browser.quit()
 
-def write_csv(j_list):
+def write_csv(j_list, filename):
+	print(len(j_list))
 	header = []
 	needHeader = False
 	# 檢查檔案是否存在
-	if not os.path.isfile("job_search_104.csv"):
+	if not os.path.isfile(filename):
 		needHeader = True
 	else:
-		with open('job_search_104.csv', "r") as f:
+		with open(filename, "r") as f:
 			reader = csv.reader(f)
 			header = next(reader, None)
 			print(header)
 	# write to csv file
-	with open('job_search_104.csv', 'a', newline='') as csvfile:
+	with open(filename, 'a', newline='') as csvfile:
 		if needHeader:
 			header = j_list[0].keys()
 
@@ -96,6 +98,7 @@ def write_csv(j_list):
 
 
 def main():
+	""" # full-time + intern maybe
 	url_list = [
 		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=%E5%BE%8C%E7%AB%AFAI&jobcatExpansionType=0&area=6001001000&order=15&asc=0&page=1&mode=s&jobsource=2018indexpoc",
 		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=人工智慧&jobcatExpansionType=0&area=6001001000&order=15&asc=0&page=1&mode=s&jobsource=2018indexpoc",
@@ -111,7 +114,25 @@ def main():
 		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=資料工程&jobcatExpansionType=0&area=6001001000&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc",
 		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=NLP&jobcatExpansionType=0&area=6001001000&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc",
 	]
-	search_104(url_list)
+	search_104(url_list, "job_search_104.csv")
+	""" 
+	# focus on internship
+	url_list_intern = [
+		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=%E5%BE%8C%E7%AB%AFAI實習&jobcatExpansionType=0&area=6001001000&order=15&asc=0&page=1&mode=s&jobsource=2018indexpoc",
+		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=人工智慧實習&jobcatExpansionType=0&area=6001001000&order=15&asc=0&page=1&mode=s&jobsource=2018indexpoc",
+		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92實習&jobcatExpansionType=0&area=6001001000&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc",
+		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=machine%20learning實習&jobcatExpansionType=0&area=6001001000&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc",
+		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=ai%20%E5%B7%A5%E7%A8%8B%E5%B8%AB實習&jobcatExpansionType=0&area=6001001000&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc",
+		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=deep%20learning實習&jobcatExpansionType=0&area=6001001000&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc",
+		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=深度學習實習&jobcatExpansionType=0&area=6001001000&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc",
+		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=資料科學實習&jobcatExpansionType=0&area=6001001000&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc",
+		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=自然語言實習&jobcatExpansionType=0&area=6001001000&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc",
+		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=大數據實習&jobcatExpansionType=0&area=6001001000&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc",
+		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=資料分析實習&jobcatExpansionType=0&area=6001001000&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc",
+		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=資料工程實習&jobcatExpansionType=0&area=6001001000&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc",
+		"https://www.104.com.tw/jobs/search/?ro=0&jobcat=2007001004%2C2007001006%2C2007001012%2C2007001007&keyword=NLP實習&jobcatExpansionType=0&area=6001001000&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc",
+	]
+	search_104(url_list_intern, "job_search_104_intern.csv")
 
 if __name__ == '__main__':
 	main()
