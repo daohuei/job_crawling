@@ -9,7 +9,6 @@ job_descript,job_title,job_require
 • 對SQL和NoSQL資料庫有深入鑽研，並能設計資料模型與建立資料庫
 • 了解算法和資料結構
 • 熟悉Git工作流程
- 
 加分條件
 • 三年以上資料工程經驗 (有特殊學經歷亦歡迎申請)
 • 熟悉或者能快速上手: Docker, Flask, Airflow
@@ -26,4 +25,1477 @@ job_descript,job_title,job_require
 4. 具備推薦系統、關鍵模組設計開發相關經驗
 5. 自主編寫程式與調試，能使用Python / C++ / Java (任一語言) 實現預定的演算法邏輯
 6. 具備實際機器學習專案經驗，並熟悉主流深度學習框架/機器學習函式庫如TensorFlow、MXNet、CNTK、Torch、Keras、MLlib等
-"
+"想要落地最潮最先進的AI技術？如果您也對AI產業充滿熱誠，渴望應用AI實際解決生活、企業中的難題，歡迎加入我們一起打造、落地最頂尖的AI技術與產品。
+我們要找的並不只是一位AI工程師，身為『AI Research Project Lead』，您需要擁有成熟的技術背景、具備豐富的溝通和領導經驗，並能帶領團隊實踐AI算法，導入專案與產品中：
+★ 針對不同的專案需求，設計最適合AI演算法
+★ 了解客戶需求，針對需求研究最佳解決方案
+★ 設計Work Break-down Structure (WBS)，使專案與產品能順利執行
+★ 帶領AI研究員一同研究，提升公司技術水平
+★ 適時導入相關新技術於專案與產品中
+★ 與 AI Architect合作，最大化AI團隊效率
+--
+● Devise the best possible technologies to create business impacts; novelty of the solutions and long-term reusability.
+● Understand the requirements and technical challenges of the products in depth by performing research in the related field.
+● Create a comprehensive Work Break-down Structure (WBS) to accomplish the technical challenges and ensure that the WBS is consistent to overall project/product timeline.
+● Supervise team members on WBS execution and manage the risks within internal stakeholders.
+● Solve these challenges by accompanying team members with clear vision and in-depth knowledge of the surrounding technologies.
+● Develop strategies to bring out the best in team members. Strong expertise in leadership, listening and coaching skills are required.
+● Cooperate and coordinate members for collaborative and effective team works.
+","條件要求
+☑ 熟悉 Python
+☑ 熟悉 深度學習框架(ex. Pytorch、Tensorflow)
+☑ 對AI, ML, DL有深入理解並具備實作能力
+☑ 了解演算法背後技術與設計原理
+☑ 流利的英文聽說(讀寫)能力
+☑ 良好的溝通能力及表達能力，樂於與跨國團隊一同合作
+☑ 不自我設限，對新技術充滿興趣
+☑ 樂於帶領團隊，並協助他人
+● Advanced knowledge and skills in AI, ML, DL.
+● Solid background of one or more of the following domains:
+- Computer vision / Image Processing
+- Natural language processing
+- Spoken language processing
+● Solid background in maths (Linear Algebra, Probability and Statistics).
+● Strong background in Computer Architecture / Operating Systems and Performance Optimization.
+● Knowledge and experience of key machine learning and deep learning frameworks, e.g. Tensorflow, Pytorch, Caffe, CNTK, etc.
+● Team player. Should be able to communicate, lead and coach other team members
+● Passionate to build great product.
+● Excellent communication skills both verbal and written (Documentation, Presentation)
+● Energy and willingness to bring the best out of the others and absolute respect toward righteousness, understand the impact of coaching and leadership on the team.
+",AI Researcher
+"< Duties > 
+
+Proposal of appropriate technical solution approach to client issues.
+Lead to create data according to the model in cooperation with the annotation team. 
+Promotion of a series of developments including improvement of accuracy such as model construction and enhancement of logic-based models.
+Lead application of the built model to production in cooperation with back-end engineers.
+Standardization and documentation of models and codes.
+Promote the above while collaborating with members in Japan, the United States, Vietnam, and Taipei.
+","< Application Requirements >
+Please send Git open account, if not please send referring to the code created in the past. 
+< Required Requirements > 
+Sufficient experience in DL-Framework such as Tensorflow and Pytorch.
+Experience designing and implementing models in client projects (1 year or more).
+Communication and English skills to work smoothly with overseas development teams.
+Ability to quickly catch up on inexperienced mathematical models / libraries.
+English (business level)
+< Welcome Requirements > 
+High coding skills (Phython, C ++, etc.).
+Team management experience.
+Experience in infrastructure construction (AWS, GCP, Docker, etc.).
+Development / employment experience of AI / ML engineers and researchers.
+Presentation experience in journals or international conferences in related fields.
+Top prizes in Kaggle and competition programming
+* 欲應徵者須附英文履歷提供審查
+",AI Developer
+"(M113)數據為主流的現在，Data Engineer(資料工程師)是精誠是最不可或缺的重要夥伴，透過你我們能更加貼近客戶的需求，因此我們期望你(未來的夥伴)幫助
+Microsoft SQL相關的服務(例如:建置、ETL排程製作、Stored Procedures開發…等)、MS-SQL SERVER問題排除及資料庫效能調校、
+SQL Stored Procedures、View和Function程式開發及維護、多維式或表格式模型開發設計、固定式報表開發及維護還有最重要的 SSIS問題排除，一同讓數據帶來的價值最大化，玩遍數據庫。
+手癢了嗎？快快Ａpply吧!
+","我們對夥伴的要求，其實不多，
+如果你有一年(含)以上Power BI 開發經驗、MSSQL、ETL、PL/SQL還有一顆不怕被挑戰的資料庫腦及工程師的熱魂(最重要)，就趕快來吧!
+",Data Engineer(MSSQL)
+","• 精通  Python
+",資料工程師
+"1. 協助整合演算法開發
+2. 使用各項開源或者公司套件解決運算架構問題
+3. 針對演算法流程進行效能與架構優化
+4. 與產品設計團隊，資料科學團隊合作，一起讓人工智慧在產業落地，解決各項自動化機器學習問題","[擅長工具] 
+熟悉Scala or Java，functional programming，或者是程式老手，不害怕學習以上兩種語言。
+[工作技能]
+1. 熟悉程式設計
+2. 熟悉物件導向設計
+3. 熟悉函數式語言，或者曾經參預開發大型專案兩年以上
+4. 善用自動化工具
+4. 善用版本控制工具
+5. 能夠主動學習，主動發現架構需要優化的地方，能夠針對不同的解決方案進行評估分析
+6. 能夠提出解決辦法，而不是只是提出問題
+7. 具有機器學習或者數據分析相關經驗
+[加分條件]
+1. 具有統計背景與相關經驗
+2. 有開源專案經驗
+3. 熟悉 Akka Actor System 架構
+4. 熟悉資料庫與HDFS 串接
+5. 熟悉機器學習與資料分析流程
+6. 熟悉建置運算環境，如 Spark 等
+7. 具有處理巨量資料相關經驗
+8. 具有團隊領導經驗
+我們正尋找相同理念，並期待一同快速成長的團隊夥伴，我們希望你：
+1. 自我驅動力高，樂於接受挑戰，並享受突破困難與解決問題的成就感
+2. 在彈性與信任的環境中，仍然高度自律，完成任務達成使命
+3. 重視使用者需求，與團隊成員共同優化系統，帶動更高的轉換與成長率
+4. 理解並認同大數據、資料分析、人工智慧對於人類未來的意義
+5. 認同與理解新創團隊的精神，對於目標有極高熱忱與拼勁，並樂於幫助他人，與團隊成員一同成長
+6. 樂於站上國際舞台，接受並享受挑戰",Senior Algorithm Engineer (資深演算法工程師)
+"1. 協助整合演算法開發。
+2. 使用各項開源或者公司套件解決運算架構問題。
+3. 針對演算法流程進行效能與架構優化。
+4. 與產品設計團隊，資料科學團隊合作，一起讓人工智慧在產業落地，解決各項自動化機器學習問題。
+","[擅長工具]
+1. 熟悉程式設計。
+2. 熟悉物件導向設計。
+3. 熟悉函數式語言，或者曾經參預開發大型專案兩年以上。
+4. 善用自動化工具。
+5. 善用版本控制工具。
+6. 能夠主動學習，主動發現架構需要優化的地方，能夠針對不同的解決方案進行評估分析。
+7. 能夠提出解決辦法，而不是只是提出問題。
+8. 有過機器學習或者數據分析相關經驗。
+1. 具有統計背景與相關經驗。
+2. 有開源專案經驗。
+3. 熟悉 Akka Actor System 架構。
+4. 熟悉資料庫與 HDFS 串接。
+5. 熟悉機器學習與資料分析流程。
+6. 熟悉建置運算環境，如 Spark 等。
+7. 具有處理巨量資料相關經驗。
+8. 帶過團隊或是志工經驗。
+",Senior Software Engineer (資深軟體工程師)
+","1. 對人工智慧或自然語言處理有興趣，具備機器學習或深度學習相關經驗。
+",AI智能演算法工程師 
+"NetBase Quid is looking for a Data Quality Engineer to join the Artificial Intelligence R&D team.
+The mission of the AI R&D team is to drive innovation in Data Science, Data Engineering, Natural Language Processing, and Computer Vision to surface insights from hundreds of terabytes of social media, news and survey data. Data quality is critical to our success, and your work will have a significant impact on the NetBase Quid products. You will be working to identify and correct issues with missing, malformed, or duplicate data. You will also be measuring and validating the results generated by our own models such as geographic locations, named entities, and sentiment classifications. You will be part of a diverse but cohesive group with complementary skills that values continuous growth and learning. We support conference attendance and ongoing education, believing that our success depends on the career development of our team members.
+On the NetBase Quid AI R&D team you will:
+* Design test plans, tools and processes that ensure quality of data from billions of documents, validating changes and monitoring production for anomalies.
+* Conduct studies on proposed data changes and provide reports and recommendations to engineers and product management.
+* Investigate and determine the root cause of data quality issues.
+* Maintain and improve internal web apps designed to provide users across the organization with information on data in production.
+* Support customer-facing teams on projects requiring data extraction and transformations by writing scripts and delivering results.
+* Streamline common tasks performed for customer-facing teams by making them available in a self-service web app.
+* Partner with other engineers to find creative solutions in data environments that are complex, enterprise-wide, multi-tenant, and host a large scale of data.
+","REQUIRED SKILLS:
+* Proficiency in a programming language, Python preferred
+* Experience with querying SQL or NoSQL databases
+* Ability to analyze data and report on results
+* Experience with source control like Git and collaborative coding environment
+NICE TO HAVE:
+* Jupyter notebooks
+* Shell scripting
+* Webapp technologies such as Flask and Jinja
+* Internal/external APIs to source data
+* Big data technologies such as Spark, Hadoop
+* Experience with text analytics
+EXPERIENCE:
+* 2-5 years of professional experience in a software company
+* BS or MS in Computer Science or related field, or equivalent experience
+OTHERS:
+1. 請提供英文履歷
+2. Applicants are required to attend an off-site test first
+",Data Quality Engineer
+" 
+在諦諾，我們的團隊目標是讓所有誠實努力的人能獲得更美好的生活體驗。我們希望透過各式各樣的數據，幫助使用者獲得更優質的訂閱體驗，改善他們的生活。
+身為諦諾的資料科學家，你將負責統籌公司的產品數據、收集外部資料並建立預測模型。將我們想解決的商業問題，透過數據分析的方式，找出最適合的解決方案及優化方向。
+將複雜的數據清洗、分析並建立模型，降低公司產品風險並提高商業目標之轉換。
+抓取外部有效之資料，優化既有之模型架構。
+將既有的資料視覺化，讓管理及產品團隊更清楚了解目前現況。
+將會與產品工程師密切合作，將所開發的演算法加入至產品中。
+提供從數據中獲得的觀點及洞見，讓管理團隊可以作為決策之依據。
+歡迎透過https://adenovo.teamdoor.io/s/K3P8YI投遞履歷，您的履歷將被優先被審閱。
+","● 熟悉SQL、Python 或 R
+● 熟悉機率與統計理論
+● 熟悉資料視覺化套件
+● 有優秀的邏輯思考及分析能力
+● 擁有良好的團隊合作能力，能從數據中找到洞見
+● 參加過 Kaggle、KDD Cup 等比賽、獨立完成 Porject 經驗佳
+● 對世界有好奇心，喜歡自我成長、探索與分享
+",資料科學家 Data Scientist
+"We are a fast-growing, research-driven company building AI solutions that helps corporate and factories overcome the challenges they face every day. Using novel machine learning techniques, we are revolutionizing the industry and have a track record of building things that others have ruled out as impossible. Our team is our best asset. We work with smart and talented individuals, who all enjoy a high degree of responsibility and independence in structuring their work. The team are looking for passionate data scientist who are keen to work with like-minded individuals in a rapidly evolving environment.
+Role & Responsibilities
+• Propose and develop machine learning-based solutions for existing and new customers.
+• Identify and advise how solutions/models/algorithms can be utilized throughout the range of potential cases.
+• Contribute to the development of machine learning solutions that can be turned into end user products by the product team.
+• Maintain and enhance existing models & algorithms including improvement in accuracy, efficiency and logic-based models.
+• Stay up to date with the latest data science/ ML / AI technologies and techniques.
+• Ensure clear and effective communication across your projects and build strong relationships within the team.
+","Basic Qualifications
+• BSc or M.Sc. in Computer Science, Data Science, Statistics, Maths, Physics or a quantitative subject.
+• A strong understanding of the fundamentals behind machine learning algorithms.
+• Quantitative skills in machine learning/statistics/mathematics.
+• Experience with Python and the data science ecosystem including Pandas, Numpy, scipy, scikit-learn, etc.
+• Familiarity with Linux based development.
+• Experience in using Pytorch or Tensorflow.
+• Strong communication skills.
+Desirable skills
+• Ph.D in Computer Science, Data Science, Statistics, Maths, Physics or a quantitative subject.
+• Knowledge of Applied machine learning is advantageous.
+• Experience in computer vision and OpenCV is advantageous.
+• Top prizes in Kaggle or other data science competition.
+",資料科學家(Data Scientist)
+了解各 IoT 領域（太陽能、射出成型機、電腦數值控制工具機 等等）的痛點，應用 ＭＬ以最有效率最有產值的方式來解決工業領域常見的問題
+目前AI研究產品化方向：太陽能源預測、太陽能電廠異常偵測、太陽能清洗預測、儲能系統最佳化、製程異常偵測、馬達異常偵測等
+負責建立整個 ML 系統，包含抓取既有資料、設計收集使用者label資料、資料前處理儲存、模型設計、線上佈署產品化...等等
+","【必要條件】
+樂觀開心、有話直說、充滿好奇心、勇於接受挑戰、勇敢負責承擔
+擁有資工相關領域的碩士或博士學位
+精通各種 Machine Learning 模型，並了解其背後數學基礎
+熟習 Linux、Git、SQL、的使用
+熟習 Python（能寫出乾淨、模組化、容易維護、有效率執行的程式）
+熟習 Tensorflow、Pytorch、Keras 其一
+【加分條件】
+使用過時序資料與時序相關的模型
+建立過自己所需的訓練資料集 
+了解 Docker、NoSQL 的使用架設與系統維護
+能夠組織團隊，協調人力資源，帶領團隊前進
+【來信請於附上以下兩項】
+Github 個人頁面 / Kaggle 個人頁面 / Linkedin 個人頁面 (至少擇一)
+ML 相關發表的論文 / ML作業說明 / ML 產品開發經驗 （至少擇一）
+＊另外一定要告訴我們「你為什麼想加入thingnario」喔
+＊我們會在一週內通知合適者進行面試，若暫時還不是很合適，還是很謝謝你，期待有緣再相會
+",Junior Data Scientist / ML engineer
+了解各IoT領域（太陽能、射出成型機、電腦數值控制工具機 等等）的痛點，應用 ＭＬ以最有效率最有產值的方式來解決工業領域常見的問題
+協助建立 ML 系統，包含抓取既有資料、設計收集使用者label資料、資料前處理儲存、模型設計、線上佈署產品化...等等
+資工相關領域的大四、碩士生或博士生
+熟悉 Linux、Git、SQL 的使用
+熟悉 Python（能寫出乾淨、模組化、容易維護、有效率執行的程式）
+熟悉 Tensorflow、Pytorch、Keras 其一
+",Machine Learning intern
+"UrCosme (@cosme TAIWAN)是化妝品使用心得分享網站，集結豐富的美妝產業資訊及美妝愛好者的行為資料，而美妝行銷總研(CMRI)則運用此資料庫，以多元觀點進行消費者洞察分享，旨在提供美妝業界趨勢分析，本職缺內容如下：
+1. 透過UrCosme網站資料庫進行資料分析與消費者洞察。
+2. 定期舉辦seminar，對外分享美妝行銷總研(CMRI)產業趨勢。
+(CMRI詳情可參閱：https://cmri.itrue.com.tw/)
+3. 透過DMP資料解析，協助各事業部門發展dashboard。
+此職務初期透過OJT的方式進行培訓，主要可歷練化妝品之於不同消費者關注的趨勢與行為觀察分析， 進而累積商業資料分析、思維與洞察力之專業。
+","1.具有統計學相關知識，可運用方法論進行資料分析。
+2.熟悉R語言，可獨立操作資料至少會一種以上程式語言方便資料處理（Ex: Python）。
+3.具邏輯力、溝通能力，可獨立進行大型會議簡報。
+4.喜好美妝產業，熱愛從數據資料中找出具經濟效益的商業應用者尤佳。
+",商業資料分析師(Business Data Analyst) 
+"WeMo Scooter 以智慧出行串連智慧生活大小事，提供「自由租 輕鬆停」 - 為亞洲最大規模智慧電動機車即時租借服務，並以業界領先者姿態持續與騎士創造佳績。
+我們正在建立數據服務中心，負責處理 Wemo scooter 核心的訊息與情報系統，整合各項資料源，並預留可擴展性予未來更多樣化的數據來源，以因應快速變化的市場需求。 Wemo 的數據團隊需要有經驗的你加入，讓大量的資料發揮應用價值，並提供即時的決策：
+- Translate business problems into analytics or AI solutions and utilize all kinds of tools to deliver our vision for eco-friendly transportation and smart city.
+- Build an appropriate data system to efficiently collect, organize data and conduct analysis as 360-degree support to the company, including but not limited to our product, marketing, operations, management.
+- Design experiments and collaborate with user researcher to gain insights and learning to improve our customer service iteratively.
+","- 3+ years’ full-time working experience with data science and engineering from building data warehouse, business intelligence reporting system, and statistical or machine learning models. Proficient in Python, R, or Matlab.
+- Practical use cases presented for data-driven decision making process related to MarTech, growth hacking, customer service, or product development. ",Senior Data Scientist
+"- 分析金融數據，結合量化運算開發新工具
+- 分析使用者行為，推播更適合資訊給用戶
+- 日常資料庫管理，利用程式擷取世界各地的數據／資訊
+- 結合總經與投資，撰寫量化報告
+【必要技能】
+- 熟悉Python
+- 熟悉金融市場，對於景氣循環有基礎概念
+- 投資交易相關經驗
+- 優秀的簡報能力
+【關於這份工作】
+這個位子的夥伴在M平方裡非常特別與重要，
+是「金融研究」和「工程團隊」的橋樑，會高度運用到程式，
+也擁有了解金融市場的決心。
+同時，我們期許你是個高度自主，熱愛發現問題、解決問題的夥伴！
+","【必要技能】
+【要準備什麼讓我們認識你 --- 五頁投影片】
+1. 你為什麼想加入MacroMicro
+2. 你的專長能帶給M平方什麼
+3. 對你而言人生最重要的核心價值是什麼
+4. 你覺得M平方哪裡可以做得更好?
+5. 簡單履歷
+或者，製作五頁投影片(以及其他加分資料)，以連結 (eg. google drive, dropbox) 等方式，在您的 Yourator 履歷中的簡歷 (Section A) 中附上，感謝您。
+看更多應徵資訊>> https://www.macromicro.me/careers
+----------------------------------
+【關於 MacroMicro/財經Ｍ平方】
+https://www.macromicro.me
+MacroMicro是亞洲首家以總體經濟為出發點的投資資訊平台。
+我們透過經濟邏輯以及數理分析找出數字與投資間的關聯性，以友善自動化的圖表協助大家以最短時間了解投資趨勢。短短的四年內，M平方成長快速，於2017年獲選全台前30大新創公司、2018年創業之星人氣王、2019年百大經理人。
+我們每天都在進步、每天都在創新，期許能帶給這個瘋狂的投資環境，更多好的東西與態度。
+【加入我們】https://www.macromicro.me/careers
+【創辦人給大家的一封信】https://pse.is/FYJ54
+",量化研究員 (正職)
+"Responsibilities
+● Delivering clear analysis and reporting of core business metrics to shareholders.
+● Creation and management of reports and dashboards.
+● Monitoring the performance of key business products.
+● Providing actionable insight to drive growth of core products.
+● Extraction and analysis of large data sets from MySQL/Oracle DBs.
+● Ad hoc analysis and reporting to clients and shareholders.
+","Requirements
+●Proactive and self-driven with excellent analytical skills
+●Previous experience in a data-driven role
+●Excellent working knowledge of SQL
+●Familiarity with other data and BI tools a plus
+●Good communication skills
+",BI Analyst_BI數據分析
+"1. 負責系統架構的設計及資料流的建立（資料收集、處理、運算、分析）
+2. 協助在 GCP 上面架設產品服務
+","1. 充分熟悉以下至少一種語言：Python，Java
+2. 充分熟悉 Unix / Linux
+3. 對在 IDC / GCP 上各種服務架構有經驗者
+4. 對 Hadoop / Spark 系統架構有充分瞭解
+5. 熟悉資料 ETL 的設計流程
+6. 熟悉 Git / Git Flow 及版本控制
+7. 有 Docker / K8s / Jinkins 等 CI/CD 經驗
+",[鴻海科技集團 富盈數據] 資深數據工程師
+"We are looking for a Video/Image Processing Software Engineer to join our team to work on products that are used by millions of people around the world. You will explore new ideas, implement new technologies and build apps that help people share moments through visual creativity.
+Responsibilities:
+- Design and build advanced video applications for mobile platforms.
+- Apply machine learning and computer vision techniques, such as image segmentation.
+- Collaborate with product managers, designers and developers to work on new product features and visual effects.
+- Explore and evaluate new technology, and build new and meaningful products or services.
+","Requirements:
+- At least one year of work experience in video/image processing.
+- Familiar with image processing and computer vision libraries (e.g., OpenGL, OpenCV, Metal).
+- Built some interesting projects of your own.
+- Plus: experience with native mobile development.
+",Video/ Image Processing Software Engineer
+"As an intern, you will collaborate with product managers, designers and, of course, other excellent developers to build products, improve code quality and make positive impact to the community. In addition, you would have the chance to dive into a new interesting areas or new technologies.
+So that we promote proactiveness, curiosity and activeness in learning because we are all on the way to a great developer. If you are passionate about building, learning and sharing, come talk to us.
+• Research cutting-edge machine learning techniques and apply them for automated creativity.
+• Quickly prototype simple machine learning models to demonstrate your ideas.
+• Collaborate with the product and developer team to push new features to production.
+","• You love problem-solving and you have good programming ability.
+• ​​Familiar with object-oriented programming, data structures, version control, etc.
+• Proactive and takes initiative, but communicates and works well in a team environment.
+• Knows how to use at least one machine learning framework (TensorFlow, PyTorch, Caffe,...).
+• ​​Has experience manipulating/exploring data, in a personal project.
+",Machine Learning Intern
+"ABOUT US
+BUILD THE SMARTER WAY TO SHOP
+ShopBack, the #1 rewards and discovery platform in Asia-Pacific, enables shoppers across the region to shop ’The Smarter Way”. It is a one-stop rewards and discovery platform for users to earn cashback, while delivering performance-based marketing to merchants. First launched in Singapore in 2014, ShopBack has since expanded its reach to Malaysia, Indonesia, the Philippines, Thailand, Taiwan, Australia, and more recently, Vietnam and Korea. In Singapore, the company has also extended its service offering with ShopBack GO, an app-based rewards platform for in-store shopping, dining, and entertainment. We are a passionate team that wants to drive innovation and build a product that we love and are all proud of!
+ShopBack partners with over 3,000 merchants including Taobao, Expedia, Shopee, ZALORA to reward its users with cashback across a wide range of categories including general merchandise, travel bookings, fashion, health and beauty, groceries, and food delivery. To date, US$100m in cashback has been awarded to our over 20 million users.
+We have global ambitions and are up against international incumbents in a rapidly emerging field! We are expanding our existing team and are looking for passionate talent across APAC to be part of this exciting journey. If you are inspired to take up new challenges and leave a mark on the e-commerce landscape, then come and be part of our growing ShopBack Family!
+Check out our engineering blog: https://medium.com/shopback-engineering
+[Responsibilities]
+Develop and maintain data pipeline will be the primary responsibility
+Maintain, expand and improve our ETL process and computational infrastructure
+Working with different sources of data (Web crawling and data feed) to process and transform them during ETL process
+Ensure and sustain data quality, such as error detection and report generation
+Responsible of initiatives related to building, maintaining and orchestrating all the components in data platform
+","[Requirements]
+Familiar with the search engine (elasticsearch or solr)
+Familiar with web crawling (scrapy, etc.)
+Experience in workflow management tool (airflow, nifi, etc.)
+Passion for software development and committed to delivering outstanding work
+Familiar with Linux operating system
+Good programming skill in Python
+[Preferred Qualifications]
+Experience in massive data processing platform (hadoop, spark, etc.)
+",Data Engineer
+"1. 負責數據的清洗、ETL架構與相關DB建置與維運、甚至API串接
+2. 將各方面的數據資料根據資料科學家與分析師的需求將資料處理完成且儲存
+3. 須具備細心處理數據的能力，同時對於數據的一致性跟資料值有一定的敏感度
+4. 熟悉python, linux, docker容器化技術
+5. 熟悉關聯式資料庫 ex. MySQL, PostgreSQL等其一
+6. 熟悉NoSQL資料庫 ex. MongoDB, Elasticsearch, Cassandra等其一
+7. 熟悉pipeline工具 ex. airflow, apache nifi等其一
+8. 熟悉Message Queue工具 ex. RabbitMQ, Kafka, Pulsar等其一
+9. 熟悉雲端服務 ex. AWS, GCP, Oracle Cloud等其一
+如果你喜歡碰到多方面的數據跟架構建置的工作事項，歡迎加入潮網科技!
+",,資料工程師 Data Engineer
+"數據力是潮網科技領先業界引以為傲的關鍵能力。
+數據產品經理(Data Product Manager)是一個新興且不可或缺的角色。
+我們需要有工作經驗，對數據分析、產品設計、顧問服務有熱情的你。
+數據產品經理是一個融合產品經理、數計分析師以及專案經理的獨特角色。
+你將與公司內的數據團隊和業務團隊共同合作，共同制定自有數據產品的規格、策略、與設計，並提供專業服務與決策支援，驅動集團策略業務發展。
+你也必須了解客戶需求目的與問題，尋求最佳解決方案與商業價值，協助團隊成員與客戶共同執行數據專案。
+本職務需要具有以下技能：
+1. 3年以上數據分析工作經歷
+2. 具有數據產品設計與管理之經驗；有顧問經驗者尤佳
+3. 熟悉SQL和資料庫技術
+4. 和資料團隊合作之經驗者
+5. 具設定與管理客戶需求，並與之協調適當解決方案之能力
+6. 熟悉Agile/Scrum者尤佳
+7. 熟悉Dashboard者尤佳
+",,數據產品經理 Data Product Manager
+Communication: Ability to synthesize and clearly communicate findings of analysis, excellent verbal and written skills in both Chinese and English.
+Planning and Execution: Solid planning and organization skills, able to prioritize: You love project management and making order out of chaos.
+Quality: You take pride in your work products and have a strong attention to detail. You check and double check your work for accuracy and consistency. You stay on top of things to ensure they are accurate and up-to-date. You show concern for all aspects of the job no matter how small.
+	 
+","(1) This position requires MS or PhD degree.
+(2) This position involves a lot of personal interaction. Good verbal communication skills are required.
+(3) Experience in Deep Learning Framework ( Pytorch or Tensorflow ) and Machine Learning.
+(4) Experience in Deep Reinforcement Learning, RL, RNN, GAN, NLP…etc.
+(5) Ability to read / comprehend state-of-the-art AI papers .
+【+Plus】
+- Kaggle Competitions Master or Grandmaster.
+",Deep Learning / Machine Learning Engineer
+"影像處理演算法流程優化、記憶體優化
+熟悉人臉偵測, 人臉辨識, 活體偵測等相關演算法
+專題研究或論文主題為人工智慧 / 機器學習 / 深度學習 / 電腦視覺相關領域
+","
+樂於閱讀與分享 Computer Vision, Machine Learning Paper
+熟悉 TensorFlow 或 Pytorch
+熟悉 Python 及 C / C++
+熟悉 OpenCV 開發經驗或不使用相關 Library 亦能以 Python 或 C / C++實作所需影像處理功能
+熟悉 image processing, pattern recognition, feature extraction 等背景知識
+有能力修改,整合,改善既有的 Neural Network
+",Computer Vision Engineer
+"主要負責職務:
+1. 與產品部門緊密合作建立不同產品線的數據收集及報告
+2. 分析各產品線的營運數據並提出優化策略
+3. 與行銷團隊合作建立各種行銷管道並優化用戶導入/激活/留存數據
+4. 與營運團隊優化合作駕駛招募及平台服務體驗
+","條件要求：
+1. 編寫SQL及處理大量數據經驗 
+2. 數字分析能力佳 
+3. 精通Excel及資料視覺化工具 
+4. 優質的邏輯思考及溝通能力
+",LINE TAXI Data Strategy Manager 數據策略經理
+"●撰寫與優化與影音內容相關文案，提出整體的關鍵字操作方向
+●優化新上線影音內容排名，持續探索新的關鍵字機會，導入內容策略
+●分析競爭對手排名，監控其 SEO 表現，並提出相關優化計畫
+●監測與分析 Google 索引成長量、總數、品質與排名狀況
+●針對網站結構、外部連結等層面提出可執行的優化建議
+●定期提供客觀、量化的成效報告
+","●大學畢業，行銷相關科系尤佳
+●2-3 年以上 SEO 分析、優化經驗
+●熟悉各式 SEO & 流量分析工具(GA、Search Console、SimilarWeb、ahrefs.com 等)
+●對於搜尋引擎、網站架構、Google 演算法排名等有深度的理解
+●具有數據驅動 (Data-driven) 思維，充滿著創新與實驗精神
+●出色的溝通、組織以及 Project Management 技能
+●英文閱讀能力佳，能快速閱讀 & 吸收相關 SEO 原文文章
+加分項目：
+● 有 OTT 領域相關經驗，熱愛線上影音產品
+● 在 Startup 或科技公司相關工作經驗，能迅速適應跨部門協作
+",SEO 優化分析師
+"我們是 Pinkoi 的行銷部門，負責替設計師傳遞關於設計品的故事，建構起 Pinkoi 的品牌形象。我們也擅長操作數位行銷管道，將訊息傳遞後，用數據做判斷，擴大每個流量的效益。Pinkoi 行銷部，一個理性感性兼具的團隊，現在需要數據分析的夥伴加入我們，幫助我們提升效益。你的表現會從你提供的銷售策略，創造多少營收成長來評估。
+你需要負責的工作內容
+分析不同商品分類 / 主題的營收成長潛力，擬定商品上架及銷售策略。
+建立會員分群與營收模型，擬定會員分群的行銷策略。
+提案 A/B testing ，並持續分析優化表現，以提升網站及 APP 營收。
+協助各部門建立報表、儀表板以協助追蹤 KPI 表現。
+探勘商業成長的模型，協助訂立指標，並定期提供商業策略提案給 Business Leader 決策執行。
+我們希望你有的經驗跟特質
+擅長利用質性與量化研究方法及分析工具得到數據洞見。
+熟悉 Business Intelligence 等報表工具使用。ex: IBM Cognos, Superset..etc
+能將研究結果轉換成行銷團隊運用在 CRM 以及行銷活動上的執行策略。
+有良好的溝通能力，善於表達想法。
+能獨自完成給予的專案，也樂於團隊合作。
+具備跨部門溝通經驗，能有效協助統整歸納需求。
+具備商業敏感度，能將數字轉換為實際可落實的方案給隊友落實。
+","應徵條件
+統計 / 數學 / 資料科學相關科系畢業。
+具備 SQL 能力。
+具備基本 Python 或 R 程式能力。
+具備 Data Visualize 能力，如 Tableau, Qlikview, Looker 等 BI 工具。
+至少 1 年以上數據分析相關工作經驗。
+英文口語書寫能力佳。
+能獨立利用外部工具進行 A/B test 並能從科學角度分析實驗結果採取行動，如 mailchimp, Google Optimize。
+1 年以上電商相關工作經驗。
+不用想了，趕快來當個 Pinkoi 人
+如果你有信心能夠勝任這份工作，請於附件附上以下資訊（缺一不可）：
+請告訴我們為什麼想應徵這份工作。
+電商營收組成有哪些數值？該用哪些指標來評估好壞？
+你會如何分群消費者，及提出相對應的行銷策略來提升回購率？
+我們會通知合適者約面試，若不符合資格，將不另行通知，謝謝大家。
+",Marketing Data Analyst 行銷數據分析師
+Bubbleye 的技術可幫助客戶即時改善其廣告設置，以實現最高的投資報酬率。我們的工作是處理大量的即時表現訊號，並響應性地自動調整每個廣告活動的設定。
+這個系統的基礎是完整、隨時可取用、可靠的數據。當不同的客戶端將數據存儲在不同的系統中並以不同的格式、精細度呈現時，這可能是一個挑戰。因此，我們需要您，一位經驗豐富的數據大師，確保我們系統中的數據，隨時處於正確、快速可用且安全的狀態。
+您將負責擴充和優化我們的數據管道架構，以及優化數據流、收集和處理信息。您將直接對我們的 CTO 匯報，並就數據計劃向我們的軟體開發人員、數據分析師和資料科學家提供支援，以確保在整個系統中實現最佳的數據傳輸。
+Bubbleye’s technology helps clients improve their advertising settings in realtime, to achieve the highest possible ROI. Our job is to crunch massive volumes of real time performance signals, and automatically adjust the settings of each advertising campaign responsively.
+The foundation of such a system is solid, always available, reliable data. Which can be a challenge when different clients store their data in different systems and expose it in different formats and with different granularity. That’s why we need YOU, an experienced data ninja to ensure the data in our system is correct, quickly available and secure at all times.
+You’ll be responsible for expanding and optimizing our data pipeline architecture, as well as optimizing data flow, collection and processing. You’ll respond directly to our CTO and support our software developers, data analysts and data scientists on data initiatives, ensuring optimal data delivery throughout the system.
+期望條件：
+超過5年的數據工程師職位經驗
+具有大數據工具的經驗：Hadoop、Spark、Kafka 等。
+有關聯式 SQL 和 NoSQL 數據庫（包括 Postgres 和 AWS Athena）的經驗
+具有支持數據轉換、數據結構、依賴關係和工作負載管理的經驗
+具有 AWS 雲端服務的經驗：EC2、EMR、RDS、Athena、S3
+具有物件導向/函數式語言的經驗：Python、Java、Scala 等。
+強大的問題解決能力和獨立工作能力
+加分條件：
+數位廣告領域的領域知識（熟悉 tracking links、postbacks、post-install events 等）
+具有數據分析框架的經驗（例如 Hydra、Google BigQuery、Presto 等）
+Your ideal traits:
+5+ years of experience in a Data Engineer role
+Experience with big data tools: Hadoop, Spark, Kafka, etc.
+Experience with relational SQL and NoSQL databases, including Postgres and AWS Athena
+Experience building processes supporting data transformation, data structures, metadata, dependency and workload management
+Experience with AWS cloud services: EC2, EMR, RDS, Athena, S3
+Experience with object-oriented/functional languages: Python, Java, Scala, etc.
+Strong problem solving skills and ability to work independently
+Recommended:
+Domain knowledge in the mobile advertising space (familiarity with tracking links, postbacks, post-install events etc.)
+Experience with data analytics frameworks (e.g. Hydra, Google BigQuery, Presto, etc.)
+",[資深] 數據工程師 Senior Data Engineer  NT$ 1.2M - 1.8M (年薪)
+Bubbleye 行業領先的 AI 可以為數百個客戶不懈地工作，處理即時數據並替每個客戶智能改善跨通路的廣告設定，以產生最高的投資報酬率。
+因應不同情境、問題，須應用不同的優化作法和演算法。因此，我們的研發團隊會密切監控各種廣告活動的數據，並不斷尋求新的模式和演算法，以確保在各種情況下均能取得成功。
+我們希望您加入我們的研發團隊，並貢獻您的經驗、突破框架的思維以及基於科學的模型和演算法構建技能，以不斷提高我們的自動化效率。
+您將與我們的 CTO 緊密合作，研究來自不同來源的數據，提出新的解決方案來應對特定的廣告挑戰，構建 PoC 和 A/B 測試不同的模型，來找出最合適的解決方案。
+然後，您將與我們的產品團隊協作，將這些解決方案嵌入我們的產品管道，並在生產環境中大規模使用它們。
+Bubbleye’s industry leading AI works relentlessly for hundreds of clients, crunching realtime data and intelligently improving each client’s advertising settings across multiple channels, to generate the highest possible ROI.
+Different optimization approaches and algorithms are best suited to tackle different situations, and solve different problems. That’s why our R&D team closely monitors data across diverse advertising campaigns, and continuously looks for new patterns and new algorithms to ensure success in every possible situation. We want YOU to join our R&D team and contribute your experience, outside-the-box thinking and skill building scientifically grounded models and algorithms to continuously increase our automation’s effectiveness.
+You’ll work very closely with our CTO. You’ll study data from different sources, propose new solutions to address specific advertising challenges, build PoCs and A/B test different models to identify the best suited solution. You’ll then liaise with our product team to embed those solutions into our product pipeline, and use them at scale in a production environment.
+3年以上處理數據並提出洞見的經驗
+深入了解機器學習技術和演算法，例如 Regression、k-NN、Naive Bayes、SVM、Decision Forests、Boosting、Deep learning 等。
+具有一般數據科學工具（例如 R、Weka、NumPy、MatLab 等）的經驗（須至少專精其中之一）
+具有開發 A/B 測試和評估模型品質的經驗
+為協作對象、客戶提供可視化數據或呈現數據的經驗，包括運用 Google 表格、Tableau、D3、ggplot 等。
+常見query語言的編碼知識和經驗：R、Python、SQL
+數據本位的方法、謹慎細心的態度
+優異的數學能力（例如統計、代數）
+優異的解決問題能力
+行動廣告領域相關知識（熟悉 tracking links、postbacks、post-install events 等）
+3+ years of experience processing data to generate meaningful insights
+Deep understanding of machine learning techniques and algorithms, such as regressions, k-NN, Naive Bayes, SVM, Decision Forests, Boosting, Deep Learning, etc.
+Experience with common data science toolkits, such as R, Weka, NumPy, MatLab, etc. (excellence in at least one of these is highly desirable)
+Experience developing A/B testing and evaluating model quality
+Experience visualizing/presenting data for stakeholders using: Google Sheets, Tableau, D3, ggplot, etc.
+Coding knowledge and experience with common query languages: R, Python, SQL
+Data-driven approach, precise and meticulous attitude
+Strong math skills (e.g. statistics, algebra)
+Strong problem solving skills
+",資料科學家 Data Scientist (AI / MARTECH )
+"Bubbleye's industry leading AI works relentlessly for hundreds of clients, crunching data and intelligently tweaking their advertising settings across multiple channels to generate the highest possible ROI. Yet every client is different, and integration with multiple data sources is paramount.
+That's no concern because we have YOU, a resourceful data analyst that oversees our data flows and ensures that our AI is fed with correct data in the right format, at all times.
+You'll analyze data from different sources and help improve our data processing pipeline. You'll design and build transformation layers to funnel diverse data streams into standardized repositories for the engine to feed and work.
+You'll also work side by side with our ops team to help manipulate data and generate reports about the health and potential of our clients' advertising campaigns.
+check our our product page KRAKEN (  http://bubbleye.com/kraken/ )
+","Your ideal traits:
+2+ years of experience processing data with R / Python
+Strong understanding of plotting and visualization
+SQL and No-SQL Database design and optimization
+Experience with data analytics frameworks (eg Hydra, Google BigQuery, Presto, etc.)
+",數據分析師 Data Analyst (手遊) (MarTech / Artificial Intelligence)
+"你相信數據反映真實，喜歡抽絲剝繭讓數據說話嗎？你渴望全面跨部門了解公司運作、並大膽假設小心求證嗎？你享受解謎的過程，並勇敢面對複雜又龐大問題？
+如果你想要帶給世界一些正面的改變，或許你就是我們在找的人！
+Migo企圖解決數位落差的挑戰，自行研發軟體技術、硬體設備、傳輸系統，讓開發中國家消費者能以親近的價格於我們佈設的熱點下載影音內容，並能夠於行動裝置上離線觀看，不再受到網路的限制。 Migo’s Data Science Team 幫助Migo各部門解決各種複雜的問題，提供business insight並根據數據做決策。
+Responsibilities 
+Build dashboards, self-service tools, and reports to analyze and present data associated with customer experience, product performance, business operations, and strategic decision making with key business stakeholders in the organization.
+Consulting and problem-solving mindset: Ability to work with ambiguity and uncertainty, digest business problems, propose and implement analytical solutions to derive value and outcomes.
+Lead the effort to communicate state of the business to stakeholders regularly and enable the organization to understand the reasons behind the trends.
+Support and manage data requests from business stakeholders – can understand business change needs and assess the impact of those changes.
+Closely partner with data team to prioritized and develop upstream data model and pipelines design, drive aggregate definitions and develop own solutions as needed.
+","Key Qualifications 
+4+ years of industry experience in data analytics area & degree in quantitative fields preferred
+Experience in working with multiple business stakeholders and acting as key data partner in teams with at least one of the following industries: media (SVOD), e-commerce, payment, FMCG/Retail, etc.
+A skill for building great design, excellent presentation, written and verbal communication, engagement and interpersonal skills
+Expert in the use of industry-standard data analysis and reporting tools including SQL, Tableau and Excel
+High degree of organizational maturity, a talent for working reciprocally in a matrix- responsibility environment and excellent time management and prioritization skills.
+Excellent data analysis, management, and visualization skills. Able to identify trends and solutions; inform decisions and makes recommendations grounded in data and analytics
+A real passion for innovation and a willingness to constantly challenge the status quo
+",Senior Data Analyst
+"1. 發展零售大數據相關應用，協助帶動客戶成長
+2. 調查電商市場企劃與執行、規劃並制定短中長期產品Roadmap，市場調查資料分析與報告撰寫
+3. 為公司提供即時產品報告&優化策略
+4. 研究、計劃及推薦數據可視化解決方案，協助拓展發展上所面臨之挑戰與議題
+5. 定義流程/跟蹤機制和規則，並與營銷夥伴合作實施
+"," 
+※具電商平台／新創／新媒體產業經驗者優先考慮安排
+1. 四年以上數據分析相關工作經驗
+2. 對商業分析，商業策略有足夠的敏感度
+3. 良好的溝通協調能力，及跨團隊協作能力
+4. 具備優秀邏輯思考與獨立解決問題能力
+",C11-Senior Business Intelligence
+"The Data Engineering Team is looking for talented data engineers that would love to manage more than 100 million patent documents and process the legal and non-patent data as our need for intelligent insights grows along with InQuartik. Your work will provide our internal teams with visibility into how InQuartik’s products are being used and how we can better serve our customers. If you are data curious, excited about designing and developing data pipelines, and motivated by having impact on the business, we want to hear from you. You will:
+Identify data needs for data science and product teams, understand their specific requirements for metrics and analysis, and build reliable, efficient and scalable data pipelines to enable data-driven decisions across InQuartik.  
+Drive the collection of new data and the refinement of existing data sources, develop relationships with product teams to manage our data structures as the InQuarik product evolves.
+BA/BS degree in Computer Science, Mathematics or related technical field, or equivalent practical experience.
+Familiar with Java or Python
+Familiar with Object Oriented Programming
+Experience with at least one of databases and search platforms such as PostgreSQL, MySQL, MariaDB, MongoDB, Solr, Elasticsearch.
+Ability to work both collectively and independently
+Nice to have
+Experience with Linux Operating System  is plus
+Experience with JAXB, Object-Relational Mapping Framwork(e.g. Hibernate, MyBatis, SQLAlchemy) is plus
+Experience with Java Multi-Processing/Multi-Threading is plus
+Experience with Database Maintenance is plus
+"Data Analyst 在 Gogolook 將負責利用資料分析及機器學習進行內部資料的探索，你可以盡情展現你的專業技能，提供決策建議，協助團隊解決各種有挑戰性的問題。
+此外也會需要和團隊其他職能一起協同 co-work。加入團隊後的主要任務:
+- Discovery the insight of data by the state-of-the-art EDA methods.
+- Provide analysis reports and solutions on existing data quality issues with PM.
+- Define and implement data acquisition and integration logic.
+- Apply feature engineering methodologies to pick-up useful features.
+- Self-motivated on learning emerging technologies and share knowledge you have with team members.
+","**我們希望你有的經驗跟特質**應徵條件:
+- At least 2 years of hands-on analysis experience with Python, and must be familiar with Pandas, NumPy.
+- Proficient in SQL and other query DSL.
+- A deep understanding of mathematics such as statistics and probability.
+- Experience in working with cloud service such as AWS, GCP
+- Good communication and presentation skills.
+- A solid understanding of both probability and statistics.加分條件:
+- Experience with machine learning and deep learning frameworks, such as Scikit-learn, TensorFlow, PyTorch, etc. Applied experience preferred.
+- Experience in Kaggle competitions.
+- You should have strong analytical experience and business acumen, preferably in banking or credit scoring background.
+",Data Analyst
+"1. 對需求進行訪談釐清及分析，以及技術溝通協調工作
+2. 撰寫系統分析設計、需求規格書等相關文件
+3. 軟體系統單元及整合的測試計畫 / 案例編寫與測試執行和驗證
+4. 系統驗收、上線後教育訓練
+5. 套裝軟體系統設定與操作問題的排解與諮詢
+","-  熟悉 PL / SQL ,TSQL 撰寫及開發程式
+-  3 年以上需求訪談和系統分析經驗，5年以上IT工作經驗
+-  具貨運承攬 ERP 系統維運經驗為佳
+-  熟悉專案管理方法、流程分析與整合，能團隊合作、主動溝通
+-  具良好溝通與流程理解能力
+-  樂於學習、了解使用者應用場景，協助套裝軟體應用與優化
+-  具備工作流程或 BPM 開發經驗佳
+",系統分析師
+"At SHOPLINE we are working on very intenteresting initiatives that would involve using data-mining and machine learning. with the vast amount of data that we currently have and growing exponentially. We will share details during the interview.
+[About this job]
+1. Develop, operate, and monitor ETL for data collection, cleansing, processing, storage, and analytics
+2. Develop data visualization to track data usage, server status, and represent data insights
+3. Automate data process tasks and support data analysis tasks
+4. Use existing algorithms and implement data-mining strategies to achieve our end goal.
+","[About you]
+1. At least 2 years of experience in building and operating large scale distributed systems or applications
+2. At least 2 years of experience in processing data with Python (scikit-learn), Scala, or R
+3. Familiar with Hadoop ecosystem, such as Spark, Hive, Hue, Pig
+4. Experience with implementing highly scalable systems on top of cloud infrastructures, such as AWS or GCP
+5. Expertise in Linux/Unix environments and familiar with shell scripting
+6. Expertise in hands-on ETL job design, components and modules development of data process
+7. Great communication skill and can-do attitude
+8. Desired skills: Python (scikit-learn), Scala, Hadoop, Hive, Spark, Linux/Unix, AWS, MySQL/Mongo/PostgreSQL, R
+[More...]
+Data mining and machine learning algorithm experience is a big plus
+",數據工程師 Data engineer
+"Business Intelligence Analyst
+We are looking for an enthusiastic and tech-savvy person to join our team and take the BI department to the next level. If you are creative, a fast-leamer, a big fan of automation and can spot an inefficient process/algorithm a mile away, this might be the role for you.
+Role Description
+• Design and implement data-handling tools for increasing the efficiency of all departments(Ex: Compliance follow-up, Equipment management, HR procedures, Delivery area optimization.);
+• Build and maintain versatile and dynamic reports to fetch and present internal data in order to provide actionable insights for every department within the company;
+• Other projects may include financial modelling, maintain report automation systems in supporting departmental daily reporting needs, creation of tools and insightful reports to better steer and control the company's development;
+What We Offer
+• Opportunity to take on responsibility from day 1 and have a direct impact on our business & all our customers
+• Work with the best. foodpanda won the European E-Commerce Award 2014 as best ecommerce start-up in Europe.
+• A vibrant and international team with diverse background.
+• Steep learning curve in e-commerce & entrepreneurship.
+• Regular company and team events.
+","Have business sense and the skill of analysis, help find business problems. Collect data from data warehouse, coding, generate reports. Work independently, co-work with Asia BI team.
+Desired Skills and Experience
+• Bachelor's degree in Computer Science, Applied Mathematics, Economics, or experience in a quantitative field where you gained experience in Business Intelligence, Investment Banking, Controlling, Marketing Intelligence, or other relevant aspects.
+• You are a true number-cruncher, having an in-depth understanding of statistics, data modeling, and mathematics.
+• Strong experience in BI reporting software such as Tableau.
+• Solid knowledge of SQL query is a must, experience in PostgreSQL preferred.
+• Fair understanding in Linux environment and AWS.
+• Knowledge of R or Python would be an advantage.
+• Experience in E-Commerce/Logistics/Information Technology industries preferred.
+• Fluent communication in English.
+",數據分析專員Senior Business Intelligence Analyst
+"At SHOPLINE we are working on very intenteresting initiatives that would involve using data-mining and `machine learning`. with the vast amount of data that we currently have and growing exponentially. We will share details during the interview.
+4. `Use existing` algorithms and implement data-mining strategies to achieve our end goal.
+2. At least 2 years of experience in processing data with Python `(scikit-learn)`
+3. Experience with implementing highly scalable systems on top of cloud infrastructures, such as AWS or GCP
+4. Expertise in Linux/Unix environments and familiar with shell scripting
+5. Expertise in hands-on ETL job design, components and modules development of data process with Airflow
+6. Great communication skill and can-do attitude
+7. Desired skills: Python `(scikit-learn)`,Linux/Unix, AWS, Mongo/PostgreSQL, Airflow, BigQuery
+[Plus]
+1. Data mining and machine learning algorithm experience is a big plus
+",數據工程師 Data Engineer
+"[About Job]
+-Develop ETL pipeline for data collection, cleansing, processing, storage, and analytics
+-Manage data and service availability through better monitoring, processes, and infrastructure
+-Support routine operation tasks
+[Pay range...]
+Bachelor’s Degree Monthly Salary= NTD 45,000~NTD 55,000
+Master’s Degree Monthly Salary= NTD 55,000~NTD 65,000
+*Higher salary welcome challenge!
+Annual Package=
++ monthly salary X 12 months
++ year-end guarantee bonus (2 months salary/per full year)
++ year-end performance bonus (0.5-3 months based on performance evaluation)
++ first year 16 days annual leave+ 5 days sick leave with pay. (on pro rata basis)
+","[About You]
+-BS/MS in Computer Science or Information Management (or equivalent)
+-Experience of processing data with Python, Java, or R
+-Experience of Linux system administrator and familiar with shell scripting
+-Experience of database administrator and SQL performance tuning
+-Experience of system monitoring, alerting, and log tools, such as Prometheus, Nagios
+-Good communication skill and can-do attitude
+[More About You]
+-Experience of cloud infrastructures is a plus, such as AWS, GCP
+-Experience of Hadoop, Spark is a plus
+",Junior Data Engineer
+"You'll be developing advanced 3D-Related AI technology for robotics products.
+Scope:
+Develop robotics management software products
+Research & learn the latest 3D Recognition algorithms
+Implement latest object recognition algorithms into products
+","Requirement:
+At least 2 years experience in computer vision related development
+At least 1 years experience in deep learning related development
+Proficiency in programming Python, C or C++
+Proficiency in using Tensorflow, Pytorch or Keras
+Nice To Have:
+Published deep-learning related paper
+Experience with Point Cloud Library
+Experience with Unity
+",Computer Vision Engineer (電腦視覺工程師)
+"- 負責金融商品大數據處理、批次作業管理與品質監控
+- 優化數據處理流程，系統問題預防，提高處理效率
+- 配合產品開發，進行資料分析及測試
+** 熟悉 Python, SQL, Excel數據處理相關函數，具備金融數據知識尤佳**
+","學歷:大學以上
+科系:數學及電算機科學學科類,商業及管理學科類,經濟學相關
+語文條件英文(聽:中等、說:中等、讀:精通、寫:中等)
+擅長工具Python , MS SQL, Excel
+其他條件
+- 對資料處理及金融投資極具興趣，有相關背景/經驗者尤佳
+- 責任感強，能細心及耐心梳理數據，主動發現/解決問題
+- 邏輯強，高度學習熱忱，熱愛研究及嘗試新技術
+- 良好溝通能力，能團隊合作
+- 熟悉 Ruby on Rails, VBA 尤佳
+- 有 Bloomberg Terminal 使用經驗尤佳
+",金融數據工程師/ Data Engineer
+"Machine Learning Engineer 在 Gogolook 將負責利用資料分析及機器學習進行內部資料的探索，你可以盡情展現你的專業技能，提供決策建議，協助團隊解決各種有挑戰性的問題。此外也會需要和團隊其他職能一起協同 co-work。
+加入團隊後的主要任務:
+- With business requirements, collect logs, extract features, and build machine learning models.
+- Feature engineering for machine learning.
+- A product mindset - ask and address the most important analytical questions with a view on enhancing product impact.
+","我們希望你有的經驗跟特質
+- 3+ years of experience in one or more of the following areas: recommendation systems, machine learning, data mining or artificial intelligence.
+- Advanced SQL skills and/or other query DSL.
+- Experience with common analysis tools - SQL, R, and Python.
+- Experience in one or more of the Big Data related technologies, such as Hadoop, Hive, Spark, ElasticSearch, MySQL, MongoDB, HBase, Presto, etc.
+- Experience in working with cloud service such as AWS, GCP.
+- Experience with machine learning and deep learning framework, such as Scikit-learn, TensorFlow, PyTorch, etc.
+- A solid understanding of both probability and statistics.
+- 具備深度學習模型建構/驗證模型效益與 Kaggle 實戰經驗者尤佳
+- 不要考慮了，趕快加入 Gogolook，我們走著瞧！
+",Machine Learning Engineer
+"1. 使用unsupervised learning 和 supervised learning 建構行為預測及使用者分群的模型
+2. 使用數據視覺化工具進行分析
+3. 熟悉機器學習演算法之開發及優化
+4. 擅長Python, SQL
+5. 有Big Data分析經驗者(Distributed Systems/Big Data Processing/Cloud Computing)
+6. 具在商業雲端運算平台上之開發經驗 (GCP, AWS...等)
+7. 資訊工程，數學等相關科系畢(若非資訊相關科系，需有程式開發經驗至少一年)
+","1. 了解雲端運算相關系統架構為佳
+2. 有研究及論文發表經驗為佳
+3. 有進行獨立研究、驗證idea的能力
+4. 有快速學習應用, 獨立思考的能力
+5. 有追求創新，效率的性格
+",Data Scientist
+"強烈徵求對機器人與打造飲料品牌充滿理想抱負的夥伴加入！在這裡您會與我們的跨國團隊共同合作，一起推動新鮮現作的飲品品牌及自動化產業發展。目前我們的服務橫跨全美及全亞洲，所設計的產品和應用專為全球連鎖餐飲集團及跨國連鎖茶飲品牌使用。
+身為前端工程師，您將會協助公司各項智能自動化管理平台開發，打造最貼近用戶使用體驗及功能，並與工程團隊夥伴一同合作，整合設備應用功能。我們正在尋找善於溝通，個性積極、不畏懼困難挑戰的夥伴加入，前端工程師的工作內容如下：
+1. 開發商家智慧設備管理平台前端。
+2. 開發智慧調理設備雲端架構前端系統。
+3. 網站前端優化及SEO設定
+","1. 相關科系畢業，二年以上前端Vue.JS/Vuex開發經驗。
+2. 熟悉HTML, CSS/SCSS, Javascript, AJAX開發經驗。
+3. 熟悉常用前端架構如Vue，並使用REST APIs經驗。
+4. 細心的程式碼撰寫習慣。
+5. 具備軟體開發知識包含資料結構，並重視程式可維護性及模板。
+6. 熟悉使用Git或其他版本管理工具。
+1. 熟悉Python 3.X
+2. 熟悉使用Element UI
+【股權與分紅】
+美國公司員工配股及盈餘分紅。
+【應徵條件】
+請檢附以下資訊：
+英文履歷。
+作品集。
+Github連結。
+其他你認爲能幫助我們更了解你的資料。
+",前端工程師 Front-End Engineer
+"GliaStudio 是一個線上的人工智慧影音製作平台，以 AI 的思維，幫助客戶快速產出數量級的影片是我們的宗旨。
+除了自動產製影片，我們也為客戶提供最具人工智慧的影音製作編輯界面，讓客戶不只節省時間，也擁有彈性的客製化空間。在這裡你將會與產品經理、介面設計師，以及後端工程師接觸，一同持續設計開發更智能快速的 GliaStudio。
+只要你有主動積極的學習力並且挑戰自己，也想透過科技帶來生活的改變，歡迎加入我們。
+1. 負責主要產品前端工程新功能開發及維護
+2. 官網新功能開發及維護
+3. 和產品團隊一起維護、開發Player
+4. 緊密與產品設計團隊和後端工程師合作
+1年以上網頁程式開發相關經驗
+熟悉 modern web 技術 (ES6, HTML5, CSS3, webpack, …etc)
+熟悉與後端串接 API
+熟悉 Git 等版本控制工具
+熟悉 Vue 或 react 框架 
+具備團隊合作精神，以團隊為優先
+熟悉Bootstrap
+熟悉 Django template 設計
+熟悉 Node.js 加分
+具網頁UI / UX / RWD 設計經驗
+*應徵時請務必附上前端相關作品集*
+",Junior 前端工程師
+"精誠隨想集結了一群有熱情、有想法、有衝勁的年輕人，共同在行動產業創造最具未來性和多元化需求的行動應用軟體。我們曾為許多不同行業類別的知名企業，設計規劃各種不同用途的行動應用，並持續發展 AI、AR、Biometric 的應用，讓 App 不再只是 App，而是更聰明更有溫度的 App。
+目前尋找App人才，歡迎喜歡挑戰的妳 / 你加入。
+🙆‍♂️ 熟悉iOS/Objective-C、SWIFT，或是熟悉 Android / Java 及物件導向程式設計 (OOP)
+🙆‍♂️ 對程式品質要求嚴謹
+🙆‍♂️ 溝通能力良好
+","必要條件：
+✅ 期望經驗約 1 年 (以上)
+✅ 工具有Android或iOS、OOP、Java、Objective-C、SWIFT
+ 👍有興趣朝保險、證券、期貨、銀行等金融相關領域發展者尤佳
+ 👍有實際App作品尤佳
+",精誠隨想 (集團關係企業) - iOS / Android App 開發工程師
+"   🧠如果您對學習新事物充滿熱忱，且不斷超越自己，我們期待與您一起激發火花。 如果您對各產業的行動應用軟體充滿興趣，我們歡迎您的參與。 如果您勇於提出自己的看法，能與團隊一起尋求最合適的解決方案，我們期待您成為我們的隊友。💪
+🎥依公司或顧客需求，做大型事件行銷規劃及執行、資料分析及市場調查。包含社群媒體影像內容發想、文案撰寫、支援品牌行銷/公關活動及企業合作專案等宣傳需求 
+🕵️‍♂️ 規劃公司或顧客對外的行銷活動與媒體活動，並對其效益進行分析與建議 
+👨🏻‍💻 負責撰寫行銷企劃書及對外公關宣傳文稿 
+📲 協助業務及主管製作產品/解決方案包裝的行銷/提案簡報 
+👂🏼 官網維護與定期更新 
+更多認識精誠隨想之公司介紹 及 福利制度 歡迎至官網參閱：http://www.softmobile.com.tw/
+具2年以上數位行銷、數位媒體相關工作經驗 
+熟稔Sketch、Photoshop、Illustrator
+具備表達、邏輯分析與即時解決問題的能力
+需具獨立作業之能力，有耐心，擅於溝通協調，且能完整表達行銷意念 
+願意吸收新知、持續學習 
+具備社群影音行銷操作經驗為佳
+對行動應用、新科技有高度興趣並有相關行銷經驗者優先錄用 
+具備2年以上的數位行銷、廣告代理商、數位媒體經驗者優先錄用
+",精誠隨想(集團關係企業)-行銷企劃主任
+🕵️‍♂️參與專案功能需求發想、撰寫專案計畫書並做工作分配，做好專案時程、品質與成本的掌握。 
+🕵️‍♂️ 具備軟體介面開發流程know-how，能於專案生命週期中積極排除風險因素，達成專案目標。 
+👨🏻‍💻 市場資訊蒐集與分析、提案與簡報技巧。 
+📲 跨組織溝通技巧、定期召開專案進度會議。 
+👂🏼 需求訪談技巧與功能需求文件撰寫。 
+🗂客戶關係管理。
+具備3年以上Project Leader經驗，並曾參與1～2年跨組織、跨軟體專案等相關經驗。 
+熟悉銀行產業Knowhow。
+瞭解APPs和Web的設計規範，具3年以上的相關軟體開發專案管理經驗尤佳。 
+具備邏輯思維，對產品功能有系統性思考及訊息提煉和整理能力 。
+能獨立完成公司所給予的專案任務，並樂於團隊合作。
+",精誠隨想(集團關係企業)-專案管理師（PM）
+"一流的 AI 公司，需要一流的 Backend Engineer，將 AI 產品化、讓 AI 的研發最佳化！
+想要嘗試 AI 浪潮下的新挑戰嗎？和我們一起打造下一代的 AI Cloud、AIaaS 平台和團隊吧！
+我們在尋找充滿熱情的後端工程師，主要任務為建置 AI Service，提供給我們的超重量級客戶們（日本金融業龍頭公司、銀行）。你將需要將 AI modules 建構成完整的 Data pipeline 及 Service，並且隨著不同產品及不同客戶的需求，提供不同的 Solution。除此之外，你也需要建構公司的內部 AI 發展所需的各種平台，協助公司的 AI 實力更上一層樓。
+★ 依照不同的客戶需求即使用情境，將 AI Researcher 所研發的 AI Models ，組成有效率的 Pipeline，建置成可維護的應用系統。
+★ 建立有彈性的 AI 研發架構及平台，加速研發流程。
+★ 與 Solution Delivery Consultant 合作，根據客戶端及其他部門之需求，設計系統架構和功能。
+★ 參與、討論、主導系統架構設計。
+你將扮演研發骨幹的角色，讓我們先進的 AI model，帶來實際的user value，幫助公司快速前進。在產品開發的過程當中，發揮舉足輕重的影響力！
+想讓自己快速成長、在 AI 相關領域及軟體工程領域當中，成為國際級的好手嗎？如果你樂於接受挑戰，迫不及待想與我們一起建立世界級的 Machine Learning 平台，參與 Deep Learning for Computer Vision、NLP、以及 Speech Recognition 的先進領域，這是你最棒的機會。
+不論你是多年經驗的箇中好手，或是初出茅廬想要一展拳腳，這裡都有適合你發揮的舞台！
+","希望你是：
+☑ 三年以上 Python 及 cloud service 開發經驗
+☑ 有 High Availability / Load Balance 相關經驗
+☑ 具有系統架構概念
+☑ 具備基礎網路概念
+☑ 具備 Linux 系統知識
+☑ Git 使用經驗
+☑ Docker 使用經驗
+☑ 基本英文聽說讀寫能力及良好的溝通能力及表達能力，樂於與跨國團隊一同合作
+☑ 樂於與團隊分享、協助團隊成員
+以下加分，沒有沒關係：
+☑ 有Data pipeline 或 ETL 相關經驗
+☑ CI/CD 運用或建構經驗
+☑ 利用 AWS 建立 cloud service 相關經驗
+",Sr. Backend Software Engineer
+想要嘗試不同的新挑戰嗎？和我們一起打造下一代的 AI Cloud、AIaaS 平台和團隊吧！
+我們在尋找充滿熱情的後端工程師，主要任務為：設計、開發先進的 AI 平台，以及將我們的 AI Solution 建置成完整的 solution，提供給我們的超重量級客戶們（日本金融業龍頭公司、銀行）。
+★ 依據不同需求和條件，運用各種技術，建置先進的 backend，完成各種大量且複雜的 AI pre-process、post-process、integration 等等，deliver 完整的 solution。
+★ 與 AI Researcher 合作，將先進的 AI Model 或 prototype、idea 等，建置為可供 user 實際使用的高品質產品。
+★ 參與討論系統架構之設計。
+☑ 資訊、電機相關科系
+☑ 具備基本 Linux 系統知識
+☑ 不自我設限、對新技術充滿興趣
+以下加分：
+☑ 處理過 Web High Availability / Load Balance 經驗
+☑ 任一 Python Web Framework 使用經驗
+",Backend Software Engineer
+"▸ 現有產品之維謢 (J2EE / ZK base)
+▸ 雲端產品後端應用伺服程式之設計及開發 (J2EE / SpringBoot / Container base)
+▸ 與前端溝通之 API 設計及開發 (Restful, Websocket)
+▸ 產品架構及規畫與 OpenStack, K8S, Ceph 及其他系統相關功能整合及開發
+","✓ 5 年以上相關經驗
+✓ 必備資格條件：Java、JPA、JMS、RDBMS、SpringBoot、OOP、Git
+✓ 其他資格條件：ActiveMQ、Cassandra、ZK、UML、Container、OpenStack、K8S、Frontend Knowledge
+",軟體研發工程師_T22R
+"📣「F22R-數位金融整合服務處」為大型專業金融交易系統整合與開發技術團隊，擁有協助金融客戶數位轉型的豐富經驗，具備完整金融交易系統領域知識，以及專業的跨平台技術整合與軟體開發能力，對新進同仁有完整的訓練, 歷練及指導員制度，歡迎對金融領域有興趣，且對技術有熱情的朋友加入。
+☑️參與金融交易系統規畫、負責設計與規格撰寫，與客戶需求訪談需求與溝通 
+☑️帶領與協助程式設計人員完成程式開發與測試工作 
+✏️撰寫系統測試計劃，協助客戶進行系統測試 
+🗒 診斷問題、在團隊中找資源共同解決 
+☑️ 與專案團隊溝通合作,溝通對象包含與客戶確認需求,與程式設計人員進度追蹤與成果驗證,定期與專案管理團隊回報進度 
+☑️具備Java程式開發能力, 熱忱有意願歷練系統分析(SA)工作
+","✔️至少3年以上Java 程式開發經驗
+✔️熟悉Java 程式開發, 具 Angular與C++經驗佳 
+✔️.具備金融交易系統開發經驗者佳
+",Java系統分析師(Fintech)
+"✍🏻 承接軟體任務，依據其功能規格進行程式開發 
+💪 團隊合作，撰寫易維護、高效能之程式 
+💻️ 研究新技術與開發工具
+會使用的工具(任二)C#、C++、Java、MSSQL、HTML、Javascript
+無經驗加分項目：
+1.具備電腦架構與程式語言基礎
+2.本職缺提供教育訓練，歡迎應屆畢業生加入
+(F62S)
+",程式設計師-F62S(提供教育訓練/歡迎應屆畢業生加入!)
+"⌨️ 依據需求規格、系統設計文件進行程式開發、系統測試、測試報告文件撰寫等工作為主，須熟悉ASP.NET (C#或VB語言)、MVC、jQuery與基本資料庫(Oracle、MSSQL)語法。
+📂 專案開發與維護工作 
+💻️ 包含前、後端程式都會有接觸 
+","必要項目：
+需要約３年以上的工作經歷
+會使用的工具有ASP.NET、C#、MSSQL、Oracle
+大加分項目：
+⌨️ 具 .NET Framework 與 C# 開發經驗 (必備) 
+🖱️  具 ASP.NET MVC 經驗者 
+🖊️使用jQuery、bootstrap、Entity Framework或React.js等實作經驗尤佳 
+(M113 )
+",ASP.NET MVC 程式設計師
+"鼎盛資料為精誠資團重要的夥伴，我們橫跨金融業、流通業、製造業、服務業等，不斷尋求進步提供客戶最好的應用系統整合服務。
+現在我們正在徵招願意挑戰不同產業Coding的Java夥伴一同解決任務，如果你有喜歡系統架構設計、帶領程式設計人員完成程式開發與測試工作 、喜歡跟客戶喝喝茶聊聊天解決他們問題若再加上你具備金融交易系統開發經驗者 歡迎你加入我們的團隊~
+想了解更多關於鼎盛的秘密嗎? 歡迎點我
+","我們要求不多～如果你有：
+👨🏼‍💻  JAVA 程式開發五年以上經驗
+👩🏾‍💻  Spring Boot 程式開發三年以上經驗 
+🖲  具備系統架構設計能力，能發展系統平台 
+💻 具備 Angular、Socket、Docker、Kubernetes 相關經驗者佳
+📱   具備需求訪談經驗
+請不要害羞讓我們邀請你來面談～
+",鼎盛資料(集團關係企業)-Java系統分析師
+"鼎盛資料為精誠資團重要的夥伴，我們跨越不同領域(金融業、流通業、製造業、服務業等)，不斷尋求進步提供客戶最好的應用系統整合服務。
+現在我們正在徵招願意挑戰不同產業Coding的Java夥伴一同解決任務，如果你有深厚的系統架構設計、帶領團隊開發系統 、具備金融交易系統開發經驗，歡迎你加入我們的團隊~ 
+不用擔心不懂微服務，我們會提供完善的在職訓練唷! 
+","我們要求不多，如果你有：
+👨🏼‍💻JAVA 程式開發七年以上經驗
+👩🏾‍💻Spring Framework 程式開發五年以上經驗 
+🖲 具備系統架構設計能力，能發展系統平台 
+💻具備 Angular、Socket、Docker、Kubernetes 相關經驗者佳
+🖲 具備 Istio 程式開發經驗者佳
+👨🏼‍💻 具 CKAD 證照者優先考慮
+",鼎盛資料(集團關係企業)-Java微服務架構師
+現在我們正在徵招願意挑戰運用微服務的概念不同產業技術開發的夥伴一同解決任務，如果你有懂 1. Linux (CentOS、Ubuntu)、Windows Server 安裝設定 2. 網路設備之建置 (負載平衡器、防火牆、Switch …) 3. 資訊安全的建置評估與應用 4. 備份備援架構規劃 5. Kubernetes 建置 6. CI/CD 相關自動化部署流程建置，
+不用擔心不懂微服務，我們會提供完善的在職訓練唷! 歡迎你加入我們的團隊~ 
+👨🏼‍💻熟悉 Linux、Windows 安裝、設定、除錯、調校
+👩🏾‍💻具備網路建置經驗或網路管理經驗 
+🖲 具備 Kubernetes 建置經驗者尤佳 
+🖲 具備 Jenkins 建置經驗者尤佳
+👩🏾‍💻具 CCNA/CCNP、MCSE、MCSA 證照者優先考慮
+👨🏼‍💻 具 CKA 證照者優先考慮
+",鼎盛資料(集團關係企業)-微服務系統工程師
+"我們尋求有經驗的前端工程師，以導入我們的AI解決方案。成功的申請人應具有堅實的UI/UX與產品開發背景，並具有轉化模糊使用者需求為明確功能設計的經驗，能將AI作業無痛融入使用者的工作流程。
+• 以 Vue.js 開發前端以利AI產品化導入, 功能包括協助影像處理, 訓練模型, 並視覺化顯示結果
+• 釐清使用者需求，與後端以及資料科學工程師協作
+• 優化產品互動及UI設計
+• 參與產品架構與開發環境的規劃
+• 協助團隊建立技術典範
+• 維持開發程式的可讀性以及重複使用性
+• 修複已經發現的錯誤，並且針對開發的功能進行單元測試
+• 編寫開發日誌以及功能說明文件
+","• 熟悉 VueJS, RESTful Web API
+• 熟悉程式設計模式
+• 熟悉 HTML、CSS 以及 Javascript
+• 熟悉 Git 的使用與控管
+• 熟悉   UI 切版
+• 三年以上前端開發經驗(有特殊學經歷亦歡迎申請)
+• 熟悉或者能快速上手: d3.js / chart.js 
+• 產品管理
+• UI/UX設計
+",前端工程師
+"• 依據需求，轉化成 API 供前端與客戶端使用
+","• 熟悉 後端框架、Flask or Django、SQL 及 DB 設計與優化
+• 熟悉 Linux Windows 作業系統、以及 Docker 等容器化技術
+•三年以上後端開發經驗(有特殊學經歷亦歡迎申請)
+• 熟悉或者能快速上手: Jenkins CI/CD等相關技術
+• 產品管理, 團隊協同開發與專案管理
+• 常用資料處理規則與流程
+",後端工程師
+"1. Engage in and improve the whole lifecycle of services—from inception and design, through deployment, operation and refinement.
+2. Support services before they go live through activities such as system design consulting, developing software platforms and frameworks, capacity planning and launch reviews.
+3. Maintain services once they are live by measuring and monitoring availability, latency and overall system health.
+4. Scale systems sustainably through mechanisms like automation, and evolve systems by pushing for changes that improve reliability and velocity.
+5. Practice sustainable incident response and blameless postmortems.","[Essential]
+1. Experience with data structures, complexity analysis and software design.
+2. Experience with Unix/Linux operating systems internals and administration or networking.
+3. Experience in one or more of the following: Python, shell scripting.
+[Nice to have]
+1. Interest in designing, analyzing and troubleshooting scale distributed systems.
+2. Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive.
+3. Ability to debug and optimize code and automate routine tasks.",Site Reliability Engineer (網站可靠性工程師)
+"1. 與現有的測試團隊合作，將現有的測項由手動轉換成自動測試，讓整體的測試可以更有效率，盡可能地提早發現問題。
+2. 使用自動化工具規劃執行手動難以達成的測試項目。
+3. 與現有的工程團隊合作，持續優化現有的CI/CD流程，透過持續地自動化測試維持程式碼在開發週期中的品質。
+4. 與產品經理及開發人員緊密合作，確保產品在釋出前可以經過完整的測試流程，儘早發現可能的風險，並以交付高品質的產品給客戶為目標。
+5. 透過精確地回報問題，讓開發人員更有效率地修正問題，並協助專案經理進行風險評估，設定產品上線時程。
+1. 測項管理系統 (例如 : Testrail)。
+2. 專案管理系統 (例如 : JIRA)。
+3. 自動化測試工具 (例如 : Selenium、Cypress、 Postman、JMeter)。
+1. 熟悉敏捷開發產品週期。
+2. 熟悉UI/API自動化測試。
+3. 熟悉效能測試、壓力測試。
+4. 熟悉CI/CD。
+5. 良好的溝通技巧。
+6. 樂於發現問題、解決問題。
+1. 熟悉Linux環境。
+2. 熟悉機器學習與資料分析流程。
+3. 具有統計背景與相關經驗。
+4. 具有安全性測試相關經驗。
+",Software Development Engineer in Test (軟體測試工程師)
+"We are looking for senior (3+ years) web developers who are passionate about building a machine learning application with a zeal for bringing a good user experience to businesses all over the world. As a MoBagel front end developer, you will be responsible for building maintainable front end architecture, ensuring the responsiveness of applications, and working alongside the product team on new features.
+You'll also need to have basic knowledge about how back end works, but most of your daily work will consist of:
+1. Designing UI elements and making sure they fit the design guide.
+2. Create various charts and visualization utilities.
+3. Designing React elements and CSS style to fit PRD and UX requirement.
+4. Since a lot of machine learning tasks are long running tasks, you will be dealing with asynchronous behavior a lot (i.e. web sockets, futures, promises, messages).
+1. 3+ years of experience in HTML5, CSS3, SASS, JavaScript.
+2. Familiarity with React.JS and a state management library, e.g. Redux.
+3. Understanding UX design or UI patterns, able to build reusable UI design-system.
+4. Able to design data schema based on requirements, discuss with back end engineer on DB schema and API format.
+5. Basic knowledge in back end development.
+1. Leadership experience or volunteer experience.
+2. Familiarity with databases, e.g. MySQL / MongoDB / PostgreSQL.
+3. Familiarity with back end development using Python or Golang.
+4. Experience in front end performance tuning.
+5. Experience in RWD.
+6. Experience in building data analytics application or good sense of data analytics.
+7. Familiarity with interactive data visualization and charting libraries.
+",Senior Frontend Engineer (資深前端工程師)
+撰寫測試案例並在嚴峻的時程下嚴格把關產品的品質
+主導產品的品質和功能驗收，協助新版本的完整和功能的驗收，再回饋給相關人員
+協助Web平台測試工作，並整理及蒐集測試數據
+曾有使用 Git 進行版本控制相關經驗
+了解軟體開發流程與 Agile 的方法實踐
+對測試有熱誠及耐心者，具備團隊精神。
+資訊相關背景尤佳。
+",軟體測試工程師 (QA)
+"工作內容
+1. 負責產品系統開發、前後端程式撰寫及維護。
+2. 網站的前後端及相關API 開發與串接並確保程式品質。
+3. 參與產品整體架構改進、性能優化和技術方案制定。
+4. 學習和研究新技術以滿足性能優化等需求。
+5. 後台系統開發與維護。
+6. 完成其他主管交辦事項。
+【必備條件】
+1. 熟悉 PHP、Javascript、HTML5、MySQL。
+2. 軟體版本管理經驗 （例如 Git，GitHub）。
+3. 熟悉 Laravel Framework。
+4. 具備專案設計、規畫、開發相關工作經驗。
+1. 具備提出開發時程預估(Plan)、規畫(Design)與建議回饋(Code Review)的能力尤佳。
+2. 有 PHP 作品，面談時可提供作品Demo。
+",PHP Laravel 資深工程師
+"1. 依據各項專案需求，開發與維運 Azure、GCP、AWS 雲端伺服器基礎設施、建置可擴展性的系統架構來運行服務
+2. 維運雲端伺服器與維運自動化
+3. 伺服器管理日常維運、故障排除
+4. 與團隊合作進行系統應用上的改善與問題處理
+","1. 具備專案設計、規畫、開發相關工作經驗
+2. 具備 高併發高流量 與 Big Data Platform系統架構及相關處理經驗
+3. 具備AZURE | GCP | AWS 管理、實作經驗
+4. 熟悉UML及設計文件撰寫
+5. 具備提出開發時程預估(Plan)、規畫(Design)與建議回饋(Code Review)的能力
+",資深系統架構師
+"【工作內容】
+1. Install, configure, and test Apigee installations and Upgrades
+2. Design, develop, configure, and troubleshoot APIs and policies using APIGEE
+3. Build and support the APIs through the entire lifecycle
+4. Requirements discussion and troubleshooting with customers
+5. Deliver APIM training
+","【職位需求】
+1. 5+ years of related software development experience
+2. Experience in Operating and deploying online web services
+3. Experience in design and development of REST API
+4. Experience in CI/CD tools (e.g. Jenkins, Concourse, Ansible, Maven, etc)
+5. Familiar with Source Code Control (e.g. SVN, Git)
+6. Familiar with Linux system administration
+7. Familiar with Shell Script and at least 1 programming language (e.g. Python, Java, etc)
+＃具備以下條件尤佳：
+1. Familiar with GCP
+2. Familiar with k8s or vmware
+3. Experience in API Management Systems (Apigee, 3scale, axway, IBM API Connect, etc)　
+4. Familiar with web security related knowledge (e.g. OAuth, PKI)　
+5. Familiar with SOAP/J2EE　
+6. Experience in Financial and Banking industries　
+　
+更多資訊>>>https://ikala.tv/zh-tw/
+",【iKala Cloud】APIM 工程師 (Apigee)- APIM Engineer (Apigee)
+"總部位於矽谷，美商網基是一家快速成長且充滿創業精神的公司。在全球社群媒體分析平台上, 我們處於世界領先地位, 每年達到30%以上的成長!
+我們將網際網路上的資訊，如 Facebook 貼文、Instagram圖片、 YouTube留言、Twitter 等資訊，經由最尖端的自然語言處理技術(Natural Language Processing)及電腦視覺(Computer Vision)分析之後，轉化為能幫助客戶更快，更精準的做出商業決策的工具平台。
+2020年一月，NetBase宣布與AI導向的文字分析 (Text Analytics) 領導者Quid合併，並正式更名為NetBase Quid。全新的NetBase Quid將為企業提供前所未有的解決方案，從社交媒體貼文，消費者評論，產品評論，新聞文章到業務文檔，再到專利申請和論壇等數據，透過匯總、分析和資料視覺化，準確地洞悉上下文中透露的產業趨勢，讓客戶可以更有效、更快速地做出數據驅動(Data Driven)的行銷決策。
+ROLE/RESPONSIBILITIES
+• Work with developers, project managers, and customers to define tests for new features
+• Design and develop test automation infrastructure and framework
+• Lead and participate in functional, integration, and regression test suite development
+• Research and develop test tools, methodologies, trends and upgrade existing practices and processes
+• Write defect reports and track issues
+• Constantly look to improve quality across the development lifecycle
+","REQUIRED QUALIFICATIONS
+• Excellent written and verbal English skills
+• Solid understanding of Java, JavaScript and Python (Selenium preferred)
+• Experience with setting up and maintaining CI systems (Jenkins preferred)
+• Experience with applying automation testing in AGILE development process
+• Have the ability to solve complex problems with practical, maintainable, and scalable solutions.
+• Demonstrated capability and motivation to thrive in a fast-paced, demanding start-up environment
+• Cucumber test framework experience preferred
+• API (RESTful) testing experience preferred
+• Analytical, organized, and curious
+• 5+ years of working experience in software industry
+ACADEMIC
+• Bachelors degree or above required (advanced degree preferred)
+• Computer science or engineering degree preferred
+OTHERS
+",Senior Automation Tech Leader
+"2020年一月，NetBase宣布與AI導向的文字分析 (Text Analytics) 領導者Quid合併，並正式更名為NetBase Quid。全新的NetBase Quid將為企業提供前所未有的解決方案，從社交媒體貼文、消費者評論、產品評論、新聞文章到業務文檔，再到專利申請和論壇等數據，透過匯總、分析和資料視覺化，準確地洞悉上下文中透露的產業趨勢，讓客戶可以更有效、更快速地做出數據驅動(Data Driven)的行銷決策。
+",Sr. SDET/QA Automation Engineer
+每年15天特休假，每滿五年另有一個月充電假!
+[ 工作內容 ]
+處理產品使用資料和客戶資料等等，協助 BI Analyst, Finance, Customer Success, Sales 等團隊分析資料進而讓客戶擁有最棒的產品使用體驗及幫助公司成長!
+[ Responsibilities ]
+* Design, implement and continuously evolve ETL pipeline.
+* Process diversely structured, semi-structure and unstructured data, to enable stakeholders' ability on extensive analyses.
+* Work closely with U.S. stakeholders on requirements and troubleshooting.
+","[ Qualifications ]
+* 3+ years of professional experience with a Bachelor's degree in STEM, Master's degree is a plus.
+* Outstanding written and verbal communication in English.
+* Solid skill in SQL.
+* Experience in ETL tools, data warehouse solutions and data modeling.
+* Experience in Shell scripting.
+* Experience in Python or Java.
+",Sr. ETL Engineer
+"1. 設計、開發、測試、佈署、維護、改善及優化醫療影像 AI 系統之底層軟體。
+2. 開發醫療影像 AI 系統的新功能。
+3. 整合 AI 推論模型。
+4. 控制取像裝置。
+5. 優化系統及軟體效能。
+","有 C/C++ 開發經驗為佳
+有 Linux kernel, RTOS 開發經驗為佳
+有 embedded Linux 平台開發經驗為佳
+有 Linux 及 Windows device driver 開發經驗為佳
+有影像擷取卡、數位相機的整合及效能優化經驗尤佳
+",嵌入式系統軟體工程師
+"[工作內容簡述]
+1. Develop Web applications
+2. Develop Tradingvalley trading system
+3. Maintain and develop Tradingvalley APIs and services
+","[態度]
+1. Can-do attitude
+2. Ability to work independently with minimal guidance
+[能力需求]
+1. 2+ years experience in backend development
+2. Computer Languages: Python, PHP
+3. Familiar with web technology
+4. Familiar in Git
+5. Experience in design web service
+6. Devops: Familiar CI/CD flows
+7. Familiar MySQL/NoSQL
+8. Familiar Queuing system
+[加分]
+1. Experience in Docker
+2. Experience with AWS or other cloud platform
+3. Experience in Linux OS
+4. Experience in building distributed, asynchronous task systems
+",後端系統開發工程師
+"安裝廣告媒體追蹤碼、評估客戶網站架構並協助溝通優化
+分析、規劃及執行網站和APP的追蹤解決方案
+網頁和廣告相關新技術的研究和導入
+","1.廣告媒體追蹤經驗，或是前端網頁程式設計 HTML5 / Javascript / Chrome Dev Tools.
+2.熱愛加強自身能力，從日常中學習或是自我提升.
+3.具有良好的學習動機.
+4.具有解決問題的能力.
+加分項目:
+對 Marketing Technology 有興趣.
+曾接觸 網路爬蟲 .
+",廣告技術工程師
+"adGeek 艾得基客是一家專注於網路廣告優化及行銷整合的互聯網公司。前端工程師的職責即是將各大網站的廣告版位作調整，你(妳)必須先瞭解客戶的網站架構，在不影響其運作的前提下去修改與埋入廣告。由於現今的廣告種類繁多，更多地是新型廣告的學習。因此，這是一個相當有挑戰的工作。此外，我們極力開發公司產品符合國內外等 B2B 客戶的使用，不同於一般的 C2C 的網站，更加專注在操作的流暢性等體驗上。所以，需快速建立 prototype 等前端的工作，相信這也是一個極大的發揮舞台。
+1. 開發維護產品前端功能與版面
+2. 提供前端專業技術及經驗，與PM及其他同仁討論新功能開發方向與可行性
+3. 與前端、後端工程師合作開發產品功能
+4. 提供 PM 會議所需之相關資訊，並列席提供專業意見
+","技能要求
+- JavaScript （含ES6），Vue 進行 SPA 開發
+- HTML5 / CSS3
+- SASS，RWD 開發
+- 熟悉 Git 的操作
+- 具備將 Sketch 或 Photoshop 的視覺設計畫面進行網頁切版的能力
+- 具備呼叫後端 API 能力
+- 勇於面對挑戰、具抗壓性、企圖心強
+加分項
+1. 多人共同開發經驗
+2. 具備能做出低耦合性的程式架構
+3. 擁有組織大型專案結構的技巧及經驗
+4. 了解後端程式運作或有開發經驗
+5. 了解各瀏覽器相容性
+6. 過往工作經驗或作品與內容產業相關
+",網頁前端工程師
+"adGeek艾得基客是一家專注於網路廣告優化及行銷整合的互聯網公司。目前我們團隊處於高速開發產品的時間，產品的功能相當多，可以玩與嚐試的東西很多，特別是架構面的東西，如消息隊列、大數據架構、設計模式、OAuth/SSO認證系統等。此外，團隊中也有不同領域的夥伴可以一同學習與分享，包含AI, 大數據，API平台等。
+工作職责:
+1. 開發穩健可擴充的後端系統
+2. 根據公司產品需要不斷提高產品用戶體驗和更好的實現產品規劃目標
+3. 根據技術部門要求完成技術研究工作，並輸出研究成果和推動成果實作。
+","1.大學以上學歷，1年以上(含)的PHP後端開發經驗
+2.精通web開發後端框架，至少一個(Yii、Laravel)
+3.至少瞭解一種關聯式資料庫（ MySQL/MariaDB/Percona/Oracle/SQL Server等）的開發經驗；熟悉至少一種NoSQL資料庫者優先(MongoDB/Cassandra/Dynamal)；
+4.知道io，分布式、快取、消息隊列、搜索等機制；
+5.熟悉常用的資料結構和演算法
+6.使用過AWS/GCP經驗者佳
+若工作經歷不完全符合以上需求，
+可以選擇投遞 Junior PHP 後端平台工程師
+https://yourator.co/companies/adGeek/jobs/11946
+",Junior / Senior PHP 後端平台工程師
+工作職責:
+","1.大學以上學歷，1年以上(含)的Python/Java/Go後端開發經驗
+2.精通web開發後端框架，至少一個(Django/Pyramid/Spring/STRUS2)
+5.有ETL經驗者佳 (kafka/RabbitMQ/SPARK/Apache Storm/Apache Kylin/Apache Nifi/Hadooop/Druid/Elastic Search/Flume/Fluentd/logstash)
+6.熟悉常用的資料結構和演算法
+7.使用過AWS/GCP經驗者佳
+",大數據平台工程師
+Numbers 工程師的任務是結合各種技術，讓個人資料的所有權以及控制權能受到保護，增進數位資料的可信賴性。在 Numbers，你會直接與世界接軌，產出的成果除了影響數百萬身在台灣的我們，也會直接被歐美的非營利組織與主流媒體使用。由於我們的使用情境相對新穎，很多使用者都是第一次嘗試，因此每一位工程師除了充滿熱情、追求卓越以外，也會聆聽使用者的聲音，創造出有品質且真正能被實用、改變世界的產品，我們相信好的產品規劃、高品質穩定的程式碼以及使用者的回饋缺一不可。
+Decentralized Data System Development Internship 的目標是在實習期間透過團隊合作，一起參與分散式數據溯源系統的建立，讓資料在隱私受到保護的前提下，利用區塊鏈技術達成追蹤與溯源的目的，你會需要學習許多最新的技術、與海內外最優秀的工程師共同合作，打造未來的數據系統。
+我們希望每一位 Numbers 工程師都具備的特質
+喜歡持續精進自己的能力不受限，對於新技術充滿熱情
+有話直說，能接受與同事互相直接點出彼此不足之處並改善
+樂於聆聽也樂於分享，喜歡與不同背景的成員團隊合作
+能了解遠端工作不是一種福利，而是一種文化，我們都是創造文化的一份子
+注重細節，期待為使用者設計更好的功能
+重視註解、測試與清晰的文件說明，註解、測試與文件不用多，但重要的不能少
+良好的英文閱讀能力
+應徵條件
+熟悉 Python 及具備 Go 的基礎開發經驗
+對數據 pipeline 處理有基本的概念
+熟悉 Linux 環境裡的開發與測試工具使用
+能夠使用第三方 library 及 API 串接
+熟悉開源專案的使用
+聽說過區塊鏈與 IPFS 且大概知道它們能做些什麼
+如果你具備以下的條件會更好
+曾經寫過使用區塊鏈的專案
+有前後端架構的基本概念
+快來應徵，我們等的就是你
+應徵時如果你能在作品集或自我推薦信欄位附上以下資訊，會幫助我們更了解你：
+個人作品 (GitHub、網站 link 或其他作品介紹資料)
+分享一個你在工作上遇到的技術問題，簡述技術面上的挑戰以及你如何解決它
+你對這份工作的期待
+我們會通知合適者進行面試， 若不符合將不另行通知，謝謝。
+",資料工程實習生 (Decentralized Data System Development Internship)
+"你將參與諦諾智慧金融旗下aifian產品的開發。緊密的與行銷及產品設計團隊合作，一起規劃產品，並與工程團隊分工，從技術的角度提供解決方案，設計易用的前端介面和良好的效能，打造卓越的用戶體驗。
+• 開發和維護核心產品，包括app和網頁。
+• 記錄和編寫產品、技術開發相關文件。
+• 持續的提出能優化產品的方法。
+• 對公司內部或產品本身的協作流程提出建議。
+　　
+","• 熟悉 React + Redux。
+• 熟悉 CSS-in-JS 解決方案 e.g. styled-components。
+• 熟悉 ES6+。
+• 熟悉 Git flow / GitHub。
+• 熟悉 Chrome Dev Tool。
+• 擁有工作熱忱，能與各領域人才互相學習，建立不同興趣。
+• 開發注重系統穩定性與擴張性，追求完美，想要超越自己。
+• 亦可採接案合作。
+",[WFH]前端工程師 Front-end Engineer
+"你將參與aifian產品的開發。緊密的與行銷及產品設計團隊合作，一起規劃產品，並與工程團隊分工，從技術的角度提供解決方案，根據商業需求設計良好的伺服器邏輯及乾淨的程式碼，解決所有技術上的挑戰。
+• 與產品設計師和工程師合作執行產品開發和維護。
+• 撰寫乾淨的程式碼來打造 APIs 及相關元件。
+• 協助前端工程師整合使用者介面及商業邏輯。
+• 自主學習Golang和其他有興趣的語言。
+歡迎透過https://adenovo.teamdoor.io/s/6FK51H投遞履歷，您的履歷將被優先被審閱。
+","• 擁有後端開發經驗2年以上。
+• 熟悉 node.js。
+• 熟悉 AWS services 包括 S3, Lambda, SNS...etc。
+• 熟悉 MySQL, NoSQL。
+• 熟悉 RESTful APIs設計。
+",後端工程師 Back-end Engineer
+"你將與技術長一同領導aifian產品的開發，同時協助該團隊的成長與建立。而除了核心產品的開發與維護，你也將與產品設計團隊討論、規劃開發的方向與細節，克服和解決所有技術上的挑戰，打造卓越的用戶體驗。
+• 參與產品策略的討論。
+• 領導產品/軟體開發團隊的建立與成長。
+• 注重團隊合作的彈性工時。
+• 建構和實驗有助於團隊合作的開發流程。
+歡迎透過https://adenovo.teamdoor.io/s/J8ZZZL投遞履歷，您的履歷將被優先被審閱。
+","• 擁有前端和後端相加開發經驗共4~6年。
+• 熟悉 React。
+• 熟悉 Javascript。
+",軟體開發總監 Director of Software Development
+你將參與aifian產品的開發。緊密的與行銷及產品設計團隊合作，一起規劃產品，並與工程團隊分工，從技術的角度提供解決方案，根據商業需求設計良好的伺服器邏輯及乾淨的程式碼，解決所有技術上的挑戰。
+",[WFH] 後端工程師 Back-end Engineer
+"你將參與下aifian產品的開發。緊密的與行銷及產品設計團隊合作，一起規劃產品，並與工程團隊分工，從技術的角度提供解決方案，設計易用的前端介面和良好的效能，打造卓越的用戶體驗。
+歡迎透過https://adenovo.teamdoor.io/s/EH9V56投遞履歷，您的履歷將被優先被審閱。
+",前端工程師 Front-end Engineer
+"工作說明 
+1. 配合物聯網平台發展，進行後端與前端使用者介面的服務元件開發
+❖ 使用者操作平台界面 ❖ 規則引擎與規則元件 
+❖ 傳輸服務 
+❖ 資料管理元件
+❖ 裝置與租戶管理
+❖ 計費與協助元件 
+2. 與SRE工程師協作打造服務流水線，以提高服務交付效率與品質 
+3. 配合物聯網平台發展，開發必要的垂直應用 
+","TDD, TBD 相關開發經驗
+",全端工程師
+"1.醫療影像 AI 相關網站及平台開發與維護
+2.使用者流程設計與優化
+3.與資料科學家合作，協助並進行AI模型預測結果視覺化
+4.撰寫自動化測試
+","1.熟悉 Linux 操作、Git 及前端開發語言 (JavaScript, HTML, CSS)
+2.具一年以上前端工作經驗及前端框架 (Angular) 使用經驗
+3.強烈自學動機及學習能力，具備團隊意識
+4.優秀的溝通及英文能力
+[加分項目]
+1.對 UI/UX 敏感度佳
+2.有美感或設計相關經驗
+3.熟悉 RWD
+4.Web 後端經驗 (使用過 Django 為佳)
+5.Docker 使用經驗
+經驗能力特優者薪水可再議。
+"軟體測試工程師 (Software Quality Assurance Engineer), 負責:
+1.依照產品規格規劃並執行測試計畫。
+2.藉由產品測試，確保產品的有效性及安全性。
+3.建立及追蹤 issues。
+","1.計算機科學相關科系學士學位或等同的實務經驗。
+2.兩年以上相關經驗。
+3.能夠根據產品規格撰寫測試計畫，並設計測試項目。
+4.具有建立自動化測試項目流程的能力。
+5.熟悉網頁前端功能之測試方法。
+6.熟悉 Linux 環境有一種以上 script 語言 (Python, Shell, Perl…) 的開發經驗。
+1.計算機科學相關科系碩士學位
+2.具備自動化工具的經驗(如Selenium)。
+3.熟悉Python、C++、JavaScript。
+4.熟悉Mobile/Desktop/Web的開發環境與除錯工具。
+5.熟悉各平台的UI自動化測試工具。
+6.熟悉網頁後端功能之測試方法。
+7.具備效能測試及分析之經驗。
+8.能夠規劃及執行非功能性測試(reliability, concurrency, performance, stress, stability...)。
+9.能夠構思測試策略，確保測試的完整性及有效性。
+",軟體測試工程師
+"1. 負責網站前端開發工作，優化前端功能設計UX體驗。
+2. 配合行銷需求，與後端人員配合開發活動網頁。
+3 .釐清PM需求，與後端工程師協作，開發網頁前端互動功能。
+4. 需具備良好的溝通能力，執行力與協調能力。
+5. 對客戶服務/財務/金融商品有興趣。
+","1. 三年以上前端開發經驗
+2. 熟悉 React、RWD、SCSS 及 Bootstrap
+3. 熟悉 Git/Git Flow 版本控管流程
+4. 熟悉 SEO 及網站前端效能優化經驗
+",前端工程師 Frontend Engineer
+"華捷智能致力將Computer Vision應用在零售與餐飲等不同的垂直領域。
+軟體工程師所負責的工作內容如下：
+• 針對不同作業平台(Windows/Android)上包裝深度學習的辨識核心，提供C++, C#程式庫及Web API供客戶使用。
+為了幫每個設備裝上眼睛，除了連接了相機，最重要讓辨識的核心能夠運行在裝置，軟體工程師將提供程式庫及Web API方便客戶們的使用。
+• 開發及優化影像處理軟體模組。
+在電腦視覺應用開發，影像處理是不可或缺的一部分，主要任務為對現有的影像處理軟體模組進行優化，包含模組串接、使用者介面改良、軟體執行資源優化。
+• 與演算法團隊協同開發更具性能優勢的軟體
+我們更歡迎有熱情的您從軟體以及計算機系統的角度，開發出更好軟體或算法，或是達成更穩定且高效的改良。
+","熟悉以下項目
+• Robust programming skill for UI, networking in C++
+• Python or C#
+• Windows or Android
+熟悉下列者尤佳
+• 具基礎機器學習知識
+• 各種Deep Learning Framework (e.g. Tensorflow, Pytorch, ...)
+• OpenCV
+• OpenVino
+",軟體工程師
+我們正在尋找有熱情的夥伴與我們一起打造穩定且高效的後端服務。
+服務後端軟體工程師所負責的工作內容如下：
+架設雲端伺服器提供自動化多重任務管理，資料管理
+持續改進後端系統以達成高品質服務
+• Python，加分項目：Node.js, C/C++
+• Linux 作業系統
+• 任何 Cloud service (AWS, GCP, Azure, Linode 等等)
+• 任何 NoSQL 或 SQL 資料庫。舉例：MySQL, PostgreSQL, MongoDB, ElasticSearch, Redis, Cassandra, …
+• Docker
+有以下經驗者尤佳
+• 架設與管理 Web/API Server
+• Docker Swarm 或 K8s 雲端服務管理
+",服務後端軟體工程師
+"華捷智能致力將 Computer Vision 應用在零售與餐飲等不同的垂直領域。
+Python，加分項目：Node.js, C / C++
+Linux 作業系統 
+任何 Cloud service (AWS, GCP, Azure, Linode 等等)
+任何 NoSQL 或 SQL 資料庫。舉例：MySQL, PostgreSQL, MongoDB, ElasticSearch, Redis, Cassandra, …
+Docker
+架設與管理 Web/API Server
+Docker Swarm 或 K8s 雲端服務管理
+",資深服務後端軟體工程師
+"Job Summary
+As a Systems Analyst, you will work closely with product team and dev team to manage technical implementation for rolling out insurance platforms and services. 
+Job Responsibilities
+Conduct requirement interview with key stakeholders including but not limited to business (product, finance, marketing) users and security officer(s).
+Work with international business partners to communicate business requirement.
+Analyze product requirements and produce document (BPMN diagrams and others for clarification) to facilitate implementation by dev team.  The output of such should include business process modeling in BPMN with integration points and high-level integration messages.
+Identify and resolve issues and conflicts during implementation by continuously managing changes in scope, identifying potential risks, and implementing contingency plans. 
+Work with QA team to prepare test plan and detailed test cases/scripts for test execution 
+Support product roll-out and the delivery of training sessions 
+Work with product team and dev team to proactively adjust resource allocation and execution plans to secure project goals and objectives. 
+Lead and execute UAT.
+Ensure releases are delivering the features that were agreed upon with stakeholders 
+Create training manuals in order to teach business users how to use our system
+","Job Requirements
+Excellent client facing and problem-solving skills 
+Excellent interpersonal skills and strong written and oral communication skills 
+Strong in writing business system requirements as well as functional specification documents.
+Ability to model business process flows in BPMN and/or UML.
+Can communicate amiably the value of technical excellence to non-technical teammates.
+Strong background in info systems, process flow modeling, troubleshooting with proven communication (both English & Chinese), analytical, and problem-solving skills, ensuring deliverables meet business needs.  Dev experience is a plus.
+SA experience with insurance and/or other financial systems is a plus
+Problem solving and critical thinking abilities.
+Excellent organizational and time management skills 
+Can find and eliminate inefficiencies in users’ workflows (requirement); willing to ask questions when something is not clear.
+A great listener, but willing to speak up when issues need to be rectified.
+Solid experience in enterprise systems implementation, preferably for insurance and/or financial industry.
+Ability to effectively prioritize and execute tasks in a high-pressure environment.
+Knowledge in Agile methodology and development, particularly Scrum.
+Scrum Master experience is an advantage.
+",Systems Analyst 系統分析師
+"Responsibilities:
+- Work directly with local and remote teams.
+- Analyze business requirements and formulate testing plans.
+- Create & document detailed and well-structured overall product quality plans based on specifications.
+- Create and implement software quality assurance plans.
+- Execute different types of testing: functional, exploratory, end-to-end, regression (e.g. Selenium), stress (e.g. JMeter), soak and security testing.
+- Execute test cases manually and convert the test cases into automated test script.
+- Document, reproduce, prioritize issues on issue tracking system (e.g. Jira) and verify issue resolutions.
+- Coordinate testing activities with other members of the team.
+- Prepare and present reports and metrics.
+- Experience automating tests (stress & non-stress).
+- Ability to design and build test plans using QA related tools (Selenium, Python, JMeter and the like).
+- Effective interpersonal & communication skills, energetic, proactive.
+- Attention to detail and thoroughness.
+- Good time management skills.
+- Ability to perform under pressure.
+- Ability to work on Windows and Mac environments.
+- Experience testing mission critical financial trading systems is a strong plus.
+- Scripting skills such as Perl & Python is a definite plus.
+- Ability to troubleshoot using SQL, Linux, network tools is a plus.
+",Software QA Engineer 軟體測試工程師 
+"- 了解各IoT領域（太陽能、射出成型機、電腦數值控制工具機 等等）的痛點，解決工業領域常見的問題
+- 負責將新需求轉化成產品功能，規劃建立相對應的軟體元件，包含線上部署產品化等
+- 開發維護全球範圍的雲端服務架構，包含IoT應用框架，與機器學習應用框架
+- 樂觀開心、有話直說、充滿好奇心、勇於接受挑戰、勇敢負責承擔
+- 熟悉資料結構、演算法等基礎科學，基礎功扎實
+- 熟悉雲端服務設計架構，服務可靠性與擴展性設計執行
+- 精通以下至少兩樣技能
+    - Python
+    - Node.js
+    - SQL
+    - NoSQL
+    - Big data/IoT data pipeline架設使用與系統維護
+- 能寫出乾淨、模組化、容易維護、有效率執行的程式
+- 有refactor經驗，了解其目的及手段
+- 能夠組織團隊，協調人力資源，帶領團隊前進
+- 熟悉Linux、Git、Docker等操作
+- 熟悉TDD/BDD開發模式與自動化測試流程 (公司目前使用 Gitlab CI、pytest, jest等)
+- 參與過Global Scale的雲端服務設計建置與Daily Operation
+- 有full stack開發能力 (如 ReactJS、LoopbackJS)
+【來信請於附上（至少兩項）】
+- Github 個人頁面
+- Linkedin 個人頁面
+- 個人作品或其他你覺得滿屌的東西等
+- 另外一定要告訴我們「你為什麼想加入thingnario」喔！
+",Back-end Specialist 後端工程師
+- 設定操作 CI 系統，如  Gitlab CI
+- 建立維護雲端軟體開發的自動化流程，如 unit test, integration test, deploy, refactor, system monitoring 等
+- 建立雲端服務架構維護自動化工具
+【必要條件】
+- 熟悉雲端服務操作
+    - Python
+    - Node.js
+    - shell script
+- 有 CI 系統架設經驗
+- 能夠跟上最新的軟體開發潮流，隨時更新toolset
+- 參與過Global Scale的雲端服務DevOps建製
+",DevOps Engineer
+了解各IoT領域（太陽能、射出成型機、電腦數值控制工具機 等等）的痛點，解決工業領域常見的問題
+開發維護全球範圍的雲端服務架構，包含IoT裝置整合、系統對接、大數據資料流框架、機器學習應用框架（能力決定工作內容）
+熟悉資料結構、演算法等基礎科學，基礎功扎實
+熟悉 Python（能寫出乾淨、模組化、容易維護、有效率執行的程式）
+可長期合作（半年以上）
+有 full stack 開發能力 (如 ReactJS、LoopbackJS) 
+有 refactor 經驗，了解其目的及手段
+了解 Machine Learning 相關演算法 (使用過 Tensorflow、Pytorch、Keras 其一)
+了解 Docker、NoSQL 的架設使用與系統維護
+了解 TDD/BDD 開發模式與自動化測試流程 (公司目前使用 Gitlab CI、pytest, jest等)
+Github 個人頁面
+Linkedin 個人頁面 / 個人作品 （至少擇一）
+",Big Data System Engineer (intern)
+"We are looking for Backend Engineer who has experience to develop and operate scalable, reliable and maintainable backend services. This role will be one of the first of a in-house development team, and will be instrumental in setting up tools, processes and documentation for the group in the future. Also work with Business Team/Frond-End Engineer and other external stakeholder to deliver the solution to our customer.
+","1. BS / BA degree in Computer Science or related field.
+2. Ability to build web services on Linux.
+3. Good at any of the listed language: Python / Java / Node.js / Scala / Go
+4. Good knowledge of Network API Design ( REST / WebSocket).
+5. Good understanding of any SQL/NoSQL database (MySQL / PostgreSQL / MongoDB / Redis / etc.)
+6. Familiar with git / Docker
+7. Team player and able to work independently.
+8. Proactive, good interpersonal and problem-solving skill.
+"1.醫療影像 AI 相關網站及平台、REST API 及內部程式開發與維護
+2.資料庫的架構設計與優化
+3.與資料科學家合作，協助並優化AI數據搜集的流程
+","資格要求:
+1.熟悉 Linux 操作、Git 及前端開發語言 (JavaScript ES6+, HTML, CSS)。
+2.具一年以上前端工作經驗及前端框架 (Angular) 使用經驗。
+3.使用過TypeScript或Flow。
+4.了解前端state management(ex. Redux)。
+5.有串接RESTful api經驗。
+6.強烈自學動機及學習能力，具備團隊意識。
+7.優秀的溝通及英文能力。
+[加分項目]  
+1.熟悉 Nginx 和 uwsgi 設定及效能調校。
+2.有串接GraphQL經驗。
+3.有 Performance Profiling 及 Optimization 經驗。
+4.Django Rest Framework 使用經驗。
+5.Web 前端經驗。
+6.PostgreSQL 的操作及優化經驗。
+7.具自動化軟體部署、負載平衡、容器 (Docker, Kubernetes) 經驗。
+8.有影像處理平台架構設計規劃經驗。

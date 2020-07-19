@@ -23,9 +23,12 @@ def get_job_info(job_soup, select_path_dict):
 	return job_info
 
 def get_job_url_list(url_list_loc):
+	url_list = []
 	# read text as list(url list)
-	with open("./url_list.txt") as url_list_file:
-		url_list = url_list_file.readlines()
+	with open(url_list_loc) as csvfile:
+		csv_dict = csv.DictReader(csvfile)
+		for row in csv_dict:
+			url_list.append(row['job_link'])
 	return url_list
 
 def get_path(pathfile):
@@ -43,7 +46,7 @@ def get_path(pathfile):
 if __name__ == '__main__':
 
 	# website of job description
-	url_list = get_job_url_list("./url_list.txt")
+	url_list = get_job_url_list("job_search.csv")
 
 	"""
 	# setup Chrome option
